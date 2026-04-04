@@ -1378,6 +1378,7 @@
       },
       "faq": {
         "title": "Transportación de Cancún a Playa del Carmen - Faqs",
+        "description": "Te ayudamos a despejar tus dudas sobre nuestros servicios de transporte",
         "items": {
           "cost": {
             "question": "¿Cuánto cuesta el transporte de Cancún a Playa del Carmen?",
@@ -1405,15 +1406,11 @@
           },
           "cheapest": {
             "question": "¿Cuál es el servicio de transporte más barato de Cancún a Playa del Carmen?",
-            "answer": "El transporte más barato es nuestro transporte: {pricePrivateOw}"
+            "answer": "El transporte más barato es nuestro transporte: $1,259 MXN"
           },
           "otherDestinations": {
             "question": "¿Qué otros destinos puedo reservar para mi servicio de transporte?",
             "answer": "Tenemos varias ubicaciones donde nos puedes encontrar, puedes llegar a los destinos más populares de Quintana Roo con nosotros: Transportación del Aeropuerto de Cancún, Transportación de Cancún a Tulum."
-          },
-          "placesToVisit": {
-            "question": "¿Qué lugares puedo visitar en Playa del Carmen con un servicio de transporte desde Cancún?",
-            "answer": "Un servicio de transporte puede llevarte a varias atracciones en y alrededor de Playa del Carmen, incluyendo la vibrante Quinta Avenida para compras y cenas, parques ecológicos como Xcaret y Xel-Há, y cenotes cercanos para nadar y hacer snorkel. También puedes visitar sitios históricos como las ruinas de Tulum, que están a una hora de distancia."
           }
         }
       },
