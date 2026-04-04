@@ -57,7 +57,7 @@ The footer MUST display the correct Spanish content as provided by the stakehold
 - **And** the "Destinos" column with localized links:
     - "Taxi Aeropuerto Cancún" -> `/es`
     - "Cancun a Playa del Carmen" -> `/es/transportacion-cancun-a-playa-del-carmen`
-    - "Cancun a Tulum" -> `/es/traslado-cancun-tulum`
+    - "Cancun a Tulum" -> `/es/transporte-de-cancun-a-tulum`
     - "Cancun a Akumal" -> `/es/transporte-cancun-akumal`
     - "Transporte de Cancún a Mérida" -> `/es/traslado-de-cancun-a-merida`
     - "Destinos" -> `/es/destinos`

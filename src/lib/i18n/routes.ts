@@ -13,7 +13,7 @@ export const routes = {
   },
   tulum: {
     en: "cancun-to-tulum-shuttle",
-    es: "es/traslado-cancun-tulum",
+    es: "es/transporte-de-cancun-a-tulum",
   },
   destinations: {
     en: "destinations",
