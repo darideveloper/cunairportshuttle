@@ -332,22 +332,22 @@
       },
       "bannerStats": {
         "title": "Con más de una década de experiencia",
-        "description": "Ofreciendo el mejor servicio de transportación para ti y tu familia, para que disfrutes de la Riviera Maya.",
+        "description": "Ofreciendo el mejor servicio de transporte para ti y tu familia, para que disfrutes de la Riviera Maya.",
         "stats": {
           "clients": {
             "text": "Clientes satisfechos",
-            "imageAlt": "Icono representando clientes satisfechos",
-            "imageTitle": "Clientes satisfechos"
+            "imageAlt": "21k+",
+            "imageTitle": "21k+"
           },
           "transportation": {
             "text": "Transportes Operados",
-            "imageAlt": "Icono representando transportes operados",
-            "imageTitle": "Transportes Operados"
+            "imageAlt": "19,517",
+            "imageTitle": "21,517"
           },
           "destinations": {
             "text": "Destinos disponibles",
-            "imageAlt": "Icono representando destinos disponibles",
-            "imageTitle": "Destinos disponibles"
+            "imageAlt": "10,622",
+            "imageTitle": "10,622"
           }
         }
       },
