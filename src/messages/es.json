@@ -196,8 +196,8 @@
       }
     },
     "ratesTable": {
-      "title": "Tarifas de Transportación Aeropuerto Cancún",
-      "description": "Precios del servicio de transporte por destinos",
+      "title": "Transporte a Playa del Carmen desde Cancún - Precios",
+      "description": "Precios por Destinos",
       "headers": {
         "destination": "Destino",
         "private": "Taxi Privado",
