@@ -1289,8 +1289,8 @@
       "description": "Transportación del Aeropuerto de Cancún a Playa del Carmen. La mejor manera de llegar a Playa del Carmen. Transportación barata a cualquier hotel en Playa del Carmen",
       "keywords": "transporte playa del carmen, cancun playa del carmen, shuttle playa del carmen, traslado aeropuerto playa",
       "destinations": {
-        "title": "Traslados desde y hacia Playa del Carmen",
-        "text": "Ofrecemos el servicio de transporte más completo a cualquier hotel o destino en Playa del Carmen o viceversa, desde cualquier destino en la Riviera Maya o el Aeropuerto, brindamos un servicio completo listo para llevarlo a su hotel o atracción favorita en Playa del Carmen.",
+        "title": "El servicio de transporte más eficiente de Cancún a Playa del Carmen y otros destinos",
+        "text": "Ofrecemos el servicio de transporte más completo a cualquier hotel o destino en Playa del Carmen y más allá. Ya sea que viaje desde cualquier ubicación en la Riviera Maya o desde el aeropuerto, nuestro servicio de transporte completo está listo para llevarlo a su hotel o atracción favorita en Playa del Carmen.",
         "viewMore": "Ver más destinos",
         "viewMoreLink": "/es/destinos",
         "cards": {
@@ -1301,13 +1301,13 @@
             "link": "/es/traslado-cancun-tulum"
           },
           "playa": {
-            "title": "Transporte a Playa del Carmen",
+            "title": "Transportación a Playa del Carmen",
             "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a Playa del Carmen. El tiempo estimado de traslado desde Cancún es de 55 minutos.",
             "ctaText": "Reservar",
             "link": "/es/transportacion-cancun-a-playa-del-carmen"
           },
           "cancun": {
-            "title": "Transporte a Cancún",
+            "title": "Transportación a Cancún",
             "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a la Zona Hotelera. El tiempo estimado de traslado del Aeropuerto a la Zona Hotelera es de 30 minutos.",
             "ctaText": "Reservar",
             "link": "/es"
