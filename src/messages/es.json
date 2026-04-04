@@ -171,18 +171,18 @@
     },
     "booking": {
       "tripType": {
-        "oneWay": "Sencillo",
-        "roundTrip": "Redondo"
+        "oneWay": "Ida",
+        "roundTrip": "Ida y Vuelta"
       },
       "currency": {
         "usd": "USD",
         "mxn": "MXN"
       },
       "labels": {
-        "leavingFrom": "Origen",
-        "goingTo": "Destino",
-        "pickupDate": "Fecha de llegada",
-        "pickupTime": "Hora de llegada",
+        "leavingFrom": "Saliendo de",
+        "goingTo": "Ir a",
+        "pickupDate": "Fecha de recogida",
+        "pickupTime": "Hora de recogida",
         "passengers": "Pasajeros"
       },
       "submit": "Buscar",
@@ -1285,7 +1285,7 @@
       }
     },
     "playa": {
-      "title": "Transporte de Cancún a Playa del Carmen - Traslado Cancún Playa del Carmen",
+      "title": "Transportación de Cancún a Playa del Carmen",
       "description": "Transportación del Aeropuerto de Cancún a Playa del Carmen. La mejor manera de llegar a Playa del Carmen. Transportación barata a cualquier hotel en Playa del Carmen",
       "keywords": "transporte playa del carmen, cancun playa del carmen, shuttle playa del carmen, traslado aeropuerto playa",
       "destinations": {
