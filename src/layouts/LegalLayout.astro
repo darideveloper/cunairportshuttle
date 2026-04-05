@@ -14,6 +14,7 @@ const { title, description, pageKey } = Astro.props;
 <Layout pageKey={pageKey}>
   <BaseSEO
     slot="seo"
+    currentPage={pageKey}
     title={title}
     description={description}
     jsonType="Article"
