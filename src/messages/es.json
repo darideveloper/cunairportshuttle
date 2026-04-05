@@ -1770,24 +1770,24 @@
         }
       },
       "transportationServices": {
-        "title": "Cancún a Tulum - Servicios Principales",
+        "title": "Traslado de Cancún a Tulum",
         "description": "",
         "items": {
           "airportToHotel": {
             "title": "Aeropuerto a Hotel",
-            "text": "Has venido a disfrutar del Caribe y seguramente necesitas transportación a tu Hotel o Aeropuerto, este servicio es ideal para ti."
+            "text": "¿Has venido a disfrutar del Caribe? Necesitarás un transporte fiable a tu hotel o al aeropuerto. Este servicio es perfecto para usted."
           },
           "hotelToHotel": {
             "title": "De Hotel a Hotel",
-            "text": "¿Necesitas cambiar de un hotel a otro mientras estás en Cancún? Nosotros le ayudamos con este transporte de Hotel a Hotel."
+            "text": "¿Va a cambiar de hotel durante su estancia en Cancún? Lo tenemos cubierto con nuestro conveniente servicio de transporte de hotel a hotel."
           },
           "hotelToRestaurant": {
             "title": "Del hotel al restaurante",
-            "text": "Cuando se relaja en sus vacaciones, probablemente lo menos que quiere hacer es conducir, y aún más, ¡si planea beber! Podemos llevarlo a su restaurante y regresar a su hotel."
+            "text": "En vacaciones, lo último de lo que quiere preocuparse es de conducir, especialmente si planea darse un capricho. Deje que le llevemos a su restaurante y le traigamos de vuelta a su hotel de forma segura."
           },
           "hotelToPark": {
             "title": "Del Hotel al Parque",
-            "text": "¿Vas a visitar Xcaret o Xel Ha? O probablemente Xoximilco o el Museo Maya en Cancún. En Transportación del Aeropuerto de Cancún podemos llevarte a cualquiera de estos parques."
+            "text": "¿Planea visitar Xcaret, Xel-Há, Xochimilco o el Museo Maya en Cancún? Le proporcionamos transporte a cualquiera de estos emocionantes parques."
           }
         }
       },
