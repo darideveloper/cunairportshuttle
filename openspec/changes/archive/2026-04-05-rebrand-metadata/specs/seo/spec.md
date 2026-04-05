@@ -1,21 +1,8 @@
-# Capability: Rebrand Metadata
+# Capability: Rebrand Metadata (SEO)
 
-Updates internal metadata (Astro config, social handles, and i18n SEO strings) to reflect the new brand "Cun Airport Shuttle".
+Updates page metadata strings and search index to reflect the new brand "Cun Airport Shuttle".
 
-## MODIFIED Requirements
-
-### Requirement: Update Core Website and Social Metadata
-The site URL and social media handles MUST be updated to the new branding to ensure correct Open Graph and Twitter card generation.
-
-#### Scenario: Update Astro Site URL
-- **Given** the `astro.config.ts` file contains the old brand URL `https://cancunsairporttransportation.com`.
-- **When** the rebranding is applied.
-- **Then** the `site` property SHALL be updated to `https://cunairportshuttle.com`.
-
-#### Scenario: Update Twitter Handle
-- **Given** `src/data/site-config.ts` contains the old Twitter handle `@CancunAirportT`.
-- **When** the rebranding is applied.
-- **Then** the `twitter` handle SHALL be updated to `@CunAirportShutt` (or a valid new handle).
+## ADDED Requirements
 
 ### Requirement: Update I18n SEO Metadata
 All page-level metadata (titles, descriptions, keywords) in the translation files MUST be updated to the new brand.

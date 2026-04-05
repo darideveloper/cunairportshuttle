@@ -116,7 +116,7 @@ This guide provides a reference for semantic HTML5 tags and their proper usage f
 
 **Example Hierarchy**:
 ```
-h1: Cancun Airport Transportation
+h1: Cancun Airport Shuttle
   h2: Our Services
     h3: Private Transportation
     h3: Luxury Transportation

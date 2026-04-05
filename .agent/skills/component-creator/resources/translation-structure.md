@@ -32,7 +32,7 @@ Use global translations for content that appears on multiple pages with the same
 {
   "global": {
     "branding": {
-      "businessName": "Cancun Airport Transportation"
+      "businessName": "Cancun Airport Shuttle"
     },
     "ui": {
       "button": {
@@ -85,9 +85,9 @@ Use page-specific translations for content that changes per page.
 {
   "pages": {
     "home": {
-      "title": "Cancun Airport Transportation | Official Website",
-      "description": "Book your Cancun Airport Transportation...",
-      "bannerTitle": "Cancun Airport Transportation",
+      "title": "Cancun Airport Shuttle | Official Website",
+      "description": "Book your Cancun Airport Shuttle...",
+      "bannerTitle": "Cancun Airport Shuttle",
       "testimonials": {
         "title": "Comments from our customers",
         "description": "Discover why our customers choose us",
@@ -155,10 +155,10 @@ const imageAlt = t(`pages.${page}.includes.imageAlt`);
 2. **Be descriptive** but concise
    ```json
    // Good
-   "bannerTitle": "Cancun Airport Transportation"
+   "bannerTitle": "Cancun Airport Shuttle"
    
    // Bad (too generic)
-   "title": "Cancun Airport Transportation"
+   "title": "Cancun Airport Shuttle"
    ```
 
 3. **Group related keys** under a common parent
