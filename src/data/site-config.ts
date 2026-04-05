@@ -1,5 +1,5 @@
 /**
- * Centralized contact information for Cancun Airport Transportation.
+ * Centralized contact information for Cancun Airport Shuttle.
  * Single source of truth for all contact data across the application.
  */
 
@@ -48,7 +48,7 @@ export const SOCIAL_LINKS = {
     facebook: 'https://www.facebook.com/gotransfers.us',
     instagram: 'https://www.instagram.com/gotransfers.us/',
     tripadvisor: 'https://www.tripadvisor.com.mx/',
-    twitter: '@CancunAirportT',
+    twitter: '@CunAirportShutt',
 } as const;
 
 // =============================================================================

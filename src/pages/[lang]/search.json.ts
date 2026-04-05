@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 
 const STATIC_PAGES_METADATA = {
     home: {
-        en: { title: "Home - Cancun Airport Transportation", description: "Official Cancun Airport Transportation services." },
+        en: { title: "Home - Cancun Airport Shuttle", description: "Official Cancun Airport Shuttle services." },
         es: { title: "Inicio - Transporte Aeropuerto Cancún", description: "Servicios oficiales de transporte del aeropuerto de Cancún." },
     },
     taxi: {
