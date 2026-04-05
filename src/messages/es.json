@@ -185,6 +185,10 @@
         "pickupTime": "Hora de recogida",
         "passengers": "Pasajeros"
       },
+      "placeholders": {
+        "leavingFrom": "Ingresa el lugar de recogida",
+        "goingTo": "Indica el destino"
+      },
       "submit": "Buscar",
       "summary": {
         "capacity": "Capacidad {maxPassengers} pasajeros.",
@@ -1968,13 +1972,13 @@
       }
     },
     "destinations": {
-      "tagline": "Llega a cualquier rincón de la Riviera Maya",
-      "title": "Transporte con Cancun Airport Shuttle a los destinos más populares de la Riviera Maya",
+      "tagline": "Reach any corner of the Riviera Maya",
+      "title": "Cancun Airport Transportation - Tarifas para destinos populares",
       "keywords": "destinos riviera maya, destinos cancun, traslados aeropuerto cancun, transporte mexico",
-      "description": "Descubra nuestras competitivas tarifas de transportación a los destinos más populares de la Riviera Maya, incluyendo Cancún, Playa del Carmen, Tulum, Cozumel, Isla Mujeres, y toda la Riviera Maya.",
+      "description": "Con años de experiencia en la industria del transporte turístico, le garantizamos un viaje excepcional. Nuestros conductores profesionales conocen cada rincón de la Riviera Maya, asegurando no sólo un transporte eficiente, sino también una experiencia sin complicaciones.",
       "destinations": {
-        "title": "Transportación desde el Aeropuerto de Cancún - Tarifas a destinos populares",
-        "text": "Con años de experiencia en la industria del transporte turístico, le garantizamos un viaje excepcional. Nuestros conductores profesionales conocen cada rincón de la Riviera Maya, asegurándole no solo un transporte eficiente sino también una experiencia fluida y sin complicaciones.",
+        "title": "Cancun Airport Transportation - Tarifas para destinos populares",
+        "text": "Con años de experiencia en la industria del transporte turístico, le garantizamos un viaje excepcional. Nuestros conductores profesionales conocen cada rincón de la Riviera Maya, asegurando no sólo un transporte eficiente, sino también una experiencia sin complicaciones.",
         "viewMore": "Ver más destinos",
         "viewMoreLink": "/es/destinos",
         "cards": {
@@ -2042,17 +2046,10 @@
         "description": "La opinión de nuestros clientes es lo más importante para nosotros",
         "items": {
           "item1": {
-            "name": "Miguel R.",
-            "text": "¡Excelente servicio para nuestro viaje a Tulum! El conductor fue puntual, profesional y el vehículo estaba impecable. El viaje fue cómodo y llegamos seguros a nuestro hotel. Muy recomendable para cualquiera que viaje a los destinos de la Riviera Maya.",
-            "imageAlt": "Comentario de nuestro cliente Miguel R.",
-            "imageTitle": "Comentario de nuestro cliente Miguel R.",
-            "stars": "5"
-          },
-          "item2": {
-            "name": "Lisa K.",
-            "text": "¡Reservamos transporte a Playa del Carmen y no podríamos estar más felices! El conductor nos dio excelentes consejos sobre restaurantes y playas locales. El precio fue justo y el servicio fue excepcional. Definitivamente los usaremos de nuevo en nuestra próxima visita.",
-            "imageAlt": "Comentario de nuestro cliente Lisa K.",
-            "imageTitle": "Comentario de nuestro cliente Lisa K.",
+            "name": "Juan P.",
+            "text": "Contraté el servicio de transporte para ir de Cancún a Tulum y quedé impresionada con la puntualidad y profesionalismo del conductor. El vehículo estaba en excelentes condiciones y el viaje fue muy cómodo. Recomendaré este servicio a mis amigos y familiares.",
+            "imageAlt": "Comment from our customer Juan P.",
+            "imageTitle": "Comment from our customer Juan P.",
             "stars": "5"
           }
         }
