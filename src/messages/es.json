@@ -1630,26 +1630,28 @@
       "description": "Transporte de Cancún a Tulum desde 2,322 por vehículo. Traslados a Tulum y opciones de transporte: privado, de lujo y de grupo.",
       "keywords": "traslado cancun tulum, transporte tulum, shuttle tulum, traslado aeropuerto tulum",
       "destinations": {
-        "title": "Traslado de Cancún a Tulum",
-        "text": "Ofrecemos el servicio de transporte más completo a cualquier hotel o destino en Tulum o viceversa, desde cualquier destino en la Riviera Maya o el Aeropuerto. Brindamos un servicio completo listo para llevarlo a su hotel o atracción favorita en Tulum.",
+        "title": "El transporte más eficiente de Cancún a Tulum y otros destinos",
+        "text": "Ofrecemos el servicio de transporte más completo a cualquier hotel o destino en Tulum y más allá. Si usted está viajando desde cualquier lugar de la Riviera Maya o el aeropuerto, nuestro servicio completo de transporte está listo para llevarlo a su hotel o atracción favorita en Tulum....",
         "viewMore": "Ver más destinos",
         "viewMoreLink": "/es/destinos",
         "cards": {
           "tulum": {
-            "title": "Transporte a Tulum",
+            "title": "Transportación a Tulum",
             "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a Tulum. El tiempo estimado de traslado de Cancún a Tulum es de 1 hora y 40 minutos.",
+            "imageAlt": "Transporte Aeropuerto Cancun a Tulum",
+            "imageTitle": "Transporte Aeropuerto Cancun a Tulum",
             "ctaText": "Reservar",
             "link": "/es/transporte-de-cancun-a-tulum"
           },
           "playa": {
-            "title": "Transporte a Playa del Carmen",
-            "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a Playa del Carmen. El tiempo estimado de traslado desde Cancún es de 55 minutos.",
+            "title": "Transportación a Playa del Carmen",
+            "description": "Experimente un servicio de traslado seguro, rápido y confiable a Playa del Carmen. El tiempo estimado de traslado desde Cancún es de 55 minutos.",
             "ctaText": "Reservar",
             "link": "/es/transportacion-cancun-a-playa-del-carmen"
           },
           "cancun": {
-            "title": "Transporte a Cancún",
-            "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a la Zona Hotelera. El tiempo estimado de traslado del Aeropuerto a la Zona Hotelera es de 30 minutos.",
+            "title": "Transportación a Cancún",
+            "description": "Benefíciese de un servicio de traslado seguro, rápido y confiable a la Zona Hotelera. El tiempo estimado de traslado del aeropuerto a la Zona Hotelera es de 30 minutos.",
             "ctaText": "Reservar",
             "link": "/es"
           }
