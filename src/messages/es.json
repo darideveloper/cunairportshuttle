@@ -1724,47 +1724,48 @@
         "imageAlt": "Nuestros clientes felices"
       },
       "faq": {
-        "title": "Preguntas Frecuentes - Cancún a Tulum",
+        "title": "Cancún a Tulum - Faqs",
+        "description": "Te ayudamos a despejar tus dudas sobre nuestros servicios de transporte",
         "items": {
           "safe": {
-            "question": "¿Es segura la transportación del Aeropuerto de Cancún a Tulum?",
-            "answer": "Sí, el servicio de transporte de Cancún a Tulum se considera generalmente seguro. Los proveedores a menudo priorizan la seguridad, con conductores experimentados y vehículos bien mantenidos."
+            "question": "¿Es seguro el servicio de transporte de Cancún a Tulum?",
+            "answer": "Sí, el servicio de transporte de Cancún a Tulum es generalmente considerado seguro. Los proveedores suelen dar prioridad a la seguridad, con conductores experimentados y vehículos bien mantenidos."
           },
           "include": {
-            "question": "¿Qué incluye mi transporte del Aeropuerto de Cancún a Tulum?",
-            "answer": "El transporte del Aeropuerto de Cancún a Tulum generalmente incluye un traslado directo en automóvil, camioneta o autobús, según el servicio que elija. A menudo incluye comodidades como aire acondicionado, conductores profesionales y, a veces, Wi-Fi y agua."
+            "question": "¿Qué incluye mi transporte desde el Aeropuerto de Cancún a Tulum?",
+            "answer": "El transporte desde el Aeropuerto de Cancún a Tulum suele incluir un traslado directo en la camioneta, dependiendo del servicio que elija. A menudo incluye comodidades como aire acondicionado, conductores profesionales y, a veces, Wi-Fi y agua."
           },
           "visit": {
-            "question": "¿Qué puedo visitar al reservar el transporte en Tulum?",
-            "answer": "Cuando esté en Tulum, puede visitar las ruinas de Tulum, hermosas playas como Playa Paraíso, cenotes como el Gran Cenote y la Reserva de la Biosfera de Sian Ka'an."
+            "question": "¿Qué puedo visitar cuando reserve el traslado en Tulum?",
+            "answer": "Cuando esté en Tulum, puede visitar las Ruinas de Tulum, hermosas playas como Playa Paraíso, cenotes como el Gran Cenote, y la Reserva de la Biosfera de Sian Ka'an."
           },
           "duration": {
-            "question": "¿Cuánto tiempo dura el traslado del Aeropuerto de Cancún a Tulum?",
-            "answer": "El viaje en transporte desde el Aeropuerto de Cancún a Tulum suele durar unas 2 horas, dependiendo del tráfico y de la ubicación específica de su destino en Tulum."
+            "question": "¿Cuánto dura el trayecto del Aeropuerto de Cancún a Tulum?",
+            "answer": "El viaje en autobús desde el aeropuerto de Cancún a Tulum suele durar alrededor de 2 horas, dependiendo del tráfico y la ubicación específica de su bajada en Tulum."
           },
           "bestWay": {
-            "question": "¿Es el transporte desde el Aeropuerto de Cancún la mejor manera de llegar a Tulum?",
-            "answer": "El servicio de transporte es una opción conveniente y confiable, especialmente para aquellos que no desean conducir ellos mismos. Ofrece un buen equilibrio entre costo, conveniencia y comodidad."
+            "question": "¿Es el traslado desde el Aeropuerto de Cancún la mejor manera de llegar a Tulum?",
+            "answer": "El transporte es una opción conveniente y confiable, especialmente para aquellos que no quieren conducir ellos mismos. Ofrece un buen equilibrio de costo, conveniencia y comodidad."
           },
           "options": {
             "question": "¿Cómo puedo ir de Cancún a Tulum?",
-            "answer": "Las opciones incluyen alquilar un automóvil, tomar un autobús (como ADO), reservar un servicio de transporte privado o compartido, o utilizar un taxi o servicio de traslado."
+            "answer": "Las opciones incluyen alquilar un coche, tomar un autobús (como ADO), reservar un transporte privado o compartido, o utilizar un taxi o servicio de traslado."
           },
           "activities": {
             "question": "¿Qué actividades puedo hacer en Tulum?",
-            "answer": "En Tulum, puede disfrutar de esnórquel, buceo, visitar cenotes, explorar las ruinas mayas, clases de yoga y cenar en excelentes restaurantes."
+            "answer": "En Tulum puedes practicar snorkel, submarinismo, visitar cenotes, explorar las ruinas mayas, tomar clases de yoga y cenar en excelentes restaurantes."
           },
           "uber": {
             "question": "¿Hay Uber en Tulum?",
-            "answer": "Uber no está disponible en Tulum. Los taxis locales y los servicios de transporte son comúnmente utilizados para el transporte."
+            "answer": "Uber no estaba disponible en Tulum. Los taxis locales y lanzaderas se utilizan comúnmente para el transporte."
           },
           "cheapest": {
-            "question": "¿Cuál es el transporte más barato del Aeropuerto de Cancún a Tulum?",
-            "answer": "El transporte más barato del Aeropuerto de Cancún a Tulum es nuestro servicio: $129 USD por vehículo."
+            "question": "¿Cuál es el traslado más barato del Aeropuerto de Cancún a Tulum?",
+            "answer": "El transporte más barato del Aeropuerto de Cancún a Tulum es nuestro servicio: {pricePrivateOw} por vehículo."
           },
           "otherDestinations": {
             "question": "¿Qué otros destinos puedo reservar para mi servicio de transporte?",
-            "answer": "Puede reservar servicios de transporte a varios destinos como <a href=\"/es\" title=\"Transporte Aeropuerto Cancún\">Transporte Aeropuerto Cancún</a> y <a href=\"/es/transportacion-cancun-a-playa-del-carmen\" title=\"Transporte de Cancún a Playa del Carmen\">Transporte de Cancún a Playa del Carmen</a>."
+            "answer": "Puedes reservar servicios de transportación a varios destinos como Cancún o Playa del Carmen."
           }
         }
       },
