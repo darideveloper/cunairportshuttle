@@ -197,7 +197,7 @@
     },
     "ratesTable": {
       "title": "Transporte a Playa del Carmen desde Cancún - Precios",
-      "description": "Precios por Destinos",
+      "description": "Precios del Servicio de Taxi por Destino",
       "headers": {
         "destination": "Destino",
         "private": "Taxi Privado",
@@ -1629,6 +1629,9 @@
       "title": "Traslados de Cancún a Tulum",
       "description": "Transporte de Cancún a Tulum desde 2,322 por vehículo. Traslados a Tulum y opciones de transporte: privado, de lujo y de grupo.",
       "keywords": "traslado cancun tulum, transporte tulum, shuttle tulum, traslado aeropuerto tulum",
+      "ratesTable": {
+        "title": "Tarifas del servicio de transporte de cancun a la zona de tulum"
+      },
       "destinations": {
         "title": "El transporte más eficiente de Cancún a Tulum y otros destinos",
         "text": "Ofrecemos el servicio de transporte más completo a cualquier hotel o destino en Tulum y más allá. Si usted está viajando desde cualquier lugar de la Riviera Maya o el aeropuerto, nuestro servicio completo de transporte está listo para llevarlo a su hotel o atracción favorita en Tulum....",
