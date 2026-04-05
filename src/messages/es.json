@@ -1661,27 +1661,27 @@
       },
       "testimonials": {
         "title": "Comentarios de nuestros clientes",
-        "description": "Descubra por qué nos eligen nuestros clientes",
+        "description": "Descubra por qué nuestros clientes nos eligen",
         "items": {
           "item1": {
-            "name": "Marco L.",
-            "text": "Contraté el servicio de transporte para ir de Cancún a Tulum y quedé impresionado con la puntualidad y profesionalismo del conductor.",
-            "imageAlt": "Comentarios de nuestros clientes Marco L.",
-            "imageTitle": "Comentarios de nuestros clientes Marco L.",
+            "name": "Juan P.",
+            "text": "Estuve encantada con la puntualidad y comodidad del servicio de transporte proporcionado por Cancun Airport Shuttle en mi reciente viaje a Tulum. Me gustó especialmente la amabilidad del conductor y la facilidad del proceso de reserva.",
+            "imageAlt": "Comentarios de nuestros clientes Juan P.",
+            "imageTitle": "Comentarios de nuestros clientes Juan P.",
             "stars": "5"
           },
           "item2": {
-            "name": "Sarah J.",
-            "text": "Nuestro traslado desde el aeropuerto de Cancún a nuestro hotel en Tulum fue perfecto. El conductor fue amable y nos dio excelentes recomendaciones sobre lugares para visitar.",
-            "imageAlt": "Comentarios de nuestros clientes Sarah J.",
-            "imageTitle": "Comentarios de nuestros clientes Sarah J.",
+            "name": "Ana G.",
+            "text": "Me encantó la eficiencia y profesionalidad del servicio de Cancun Airport Shuttle durante el traslado a Tulum. El vehículo estaba impecablemente limpio y el viaje fue muy agradable, gracias al excelente servicio al cliente.",
+            "imageAlt": "Comentarios de nuestros clientes Ana G.",
+            "imageTitle": "Comentarios de nuestros clientes Ana G.",
             "stars": "5"
           },
           "item3": {
-            "name": "David B.",
-            "text": "Utilicé este servicio para una excursión de un día a Tulum y todo fue maravilloso. El conductor fue puntual, el vehículo era muy cómodo y limpio, y el viaje fue muy seguro.",
-            "imageAlt": "Comentarios de nuestros clientes David B.",
-            "imageTitle": "Comentarios de nuestros clientes David B.",
+            "name": "Carlos R.",
+            "text": "Disfruté de un viaje excepcionalmente cómodo a Tulum con Cancun Airport Shuttle. Destaco la puntualidad del servicio y la amabilidad del conductor, quien además compartió valiosos consejos sobre lugares a visitar en la zona.",
+            "imageAlt": "Comentarios de nuestros clientes Carlos R.",
+            "imageTitle": "Comentarios de nuestros clientes Carlos R.",
             "stars": "5"
           }
         }
