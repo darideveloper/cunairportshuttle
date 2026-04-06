@@ -48,7 +48,7 @@
           "links": [
             {
               "text": "Taxi Aeropuerto Cancún",
-              "href": "/es/"
+              "href": "/es/taxi-aeropuerto-cancun"
             },
             {
               "text": "Cancun a Playa del Carmen",
@@ -327,7 +327,7 @@
         "buttons": {
           "primary": {
             "text": "Reservar ahora",
-            "href": "#"
+            "href": "#booking-form"
           },
           "secondary": {
             "text": "Todos los destinos",
@@ -740,7 +740,7 @@
             "title": "Transportación del Aeropuerto de Cancún a la Zona Hotelera de Cancún",
             "description": "La zona hotelera de Cancún es el destino más popular de la ciudad y sus hoteles de 4 y 5 estrellas te darán la mejor vista del Mar Caribe y la mejor experiencia vacacional que puedas imaginar.",
             "ctaText": "Reservar",
-            "link": "/es"
+            "link": "/es/transporte-privado-cancun"
           }
         }
       },
@@ -1010,7 +1010,7 @@
             "title": "Transportación a Cancún",
             "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a la Zona Hotelera. El tiempo estimado de traslado del Aeropuerto a la Zona Hotelera es de 30 minutos.",
             "ctaText": "Reservar",
-            "link": "/es"
+            "link": "/es/transporte-privado-cancun"
           }
         }
       },
@@ -1185,7 +1185,7 @@
             "title": "Transportación a Cancún",
             "description": "Disfrute de un servicio de traslado seguro, rápido y confiable a la Zona Hotelera. El tiempo estimado de traslado del Aeropuerto a la Zona Hotelera es de 30 minutos.",
             "ctaText": "Reservar",
-            "link": "/es"
+            "link": "/es/transporte-privado-cancun"
           }
         }
       },
@@ -1366,7 +1366,7 @@
             "imageAlt": "website.home.destination",
             "imageTitle": "website.home.destination",
             "ctaText": "Reservar",
-            "link": "/es"
+            "link": "/es/transporte-privado-cancun"
           }
         }
       },
@@ -1551,7 +1551,7 @@
             "title": "Transporte a la Zona Hotelera de Cancún desde Cancún",
             "description": "Disfruta de un servicio de traslado seguro, rápido y confiable a la Zona Hotelera. El tiempo estimado de traslado desde el Aeropuerto a la Zona Hotelera es de 30 minutos.",
             "ctaText": "Reservar",
-            "link": "/es"
+            "link": "/es/transporte-privado-cancun"
           }
         }
       },
@@ -1704,7 +1704,7 @@
             "title": "Transportación del Aeropuerto de Cancún a la Zona Hotelera de Cancún",
             "description": "La zona hotelera de Cancún es el destino más popular de la ciudad y sus hoteles de 4 y 5 estrellas te darán la mejor vista del Mar Caribe y la mejor experiencia vacacional que puedas imaginar.",
             "ctaText": "Reservar",
-            "link": "/es"
+            "link": "/es/transporte-privado-cancun"
           }
         }
       },

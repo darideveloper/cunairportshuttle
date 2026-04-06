@@ -47,7 +47,7 @@ export const ADDRESS = {
 export const SOCIAL_LINKS = {
     facebook: 'https://www.facebook.com/gotransfers.us',
     instagram: 'https://www.instagram.com/gotransfers.us/',
-    tripadvisor: 'https://www.tripadvisor.com.mx/',
+    tripadvisor: 'https://www.tripadvisor.com/Attraction_Review-g150807-d10103757-Reviews-Cancun_Airport_Transportation-Cancun_Yucatan_Peninsula.html',
     twitter: '@CunAirportShutt',
 } as const;
 
