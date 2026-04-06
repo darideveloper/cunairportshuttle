@@ -1,0 +1,5 @@
+- [x] Add missing keys to `src/messages/es.json`
+- [x] Add missing keys to `src/messages/en.json`
+- [x] Formalize i18n consistency requirement in OpenSpec
+- [x] Validate i18n consistency with `npm run validate-i18n`
+- [x] Run `npm run build` to confirm the fix
