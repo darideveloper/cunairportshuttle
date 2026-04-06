@@ -19,17 +19,14 @@ const stats = [
   {
     key: 'clients',
     image: happyClientsImg,
-    counter: '21k+',
   },
   {
     key: 'transportation',
     image: officeImg,
-    counter: '21,517',
   },
   {
     key: 'destinations',
     image: mapPointImg,
-    counter: '10,622',
   },
 ]
 ---
@@ -42,7 +39,7 @@ const stats = [
   <div
     class='container mt-12 flex flex-col gap-6 px-4 py-3 md:flex-row md:px-8 md:py-6'
   >
-    <div class='flex flex-col gap-4 md:w-1/2'>
+    <div class='flex flex-col gap-4 md:w-1/2 justify-center'>
       <H2
         id='banner-stats-title'
         className='text-left'
@@ -66,7 +63,7 @@ const stats = [
               )}
               class='h-12 w-12'
             />
-            <span class='text-2xl font-bold'>{stat.counter}</span>
+            <span class='text-2xl font-bold'>{t(`global.sections.bannerStats.stats.${stat.key}.imageTitle`)}</span>
             <span class='text-gray text-sm'>
               {t(`global.sections.bannerStats.stats.${stat.key}.text`)}
             </span>

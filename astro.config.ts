@@ -19,7 +19,7 @@ const legacyRedirects = Object.values(routes).reduce<Record<string, string>>((ac
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://cancunsairporttransportation.com',
+  site: 'https://cunairportshuttle.com',
   redirects: {
     ...legacyRedirects
   },

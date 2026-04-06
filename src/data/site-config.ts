@@ -1,5 +1,5 @@
 /**
- * Centralized contact information for Cancun Airport Transportation.
+ * Centralized contact information for Cancun Airport Shuttle.
  * Single source of truth for all contact data across the application.
  */
 
@@ -13,9 +13,9 @@ export const PHONES = {
         href: 'tel:+529983870435',
     },
     usa: {
-        raw: '+19299991258',
-        formatted: '+1 (929) 999-1258',
-        href: 'tel:+19299991258',
+        raw: '+13237635379',
+        formatted: '+1 (323) 763-5379',
+        href: 'tel:+13237635379',
     },
 } as const;
 
@@ -31,9 +31,9 @@ export const EMAIL = {
 // ADDRESS
 // =============================================================================
 export const ADDRESS = {
-    full: 'Blvd. Luis Donaldo Colosio Km 7.5, Zona Hotelera, 77500 Cancún, Q.R.',
-    street: 'Blvd. Luis Donaldo Colosio Km 7.5',
-    zone: 'Zona Hotelera',
+    full: 'Carr. Cancun-Chetumal km. 22 Terminal 2 Loc. CUN- 2385, 77500 Cancún, Q.R.',
+    street: 'Carr. Cancun-Chetumal km. 22 Terminal 2 Loc. CUN- 2385',
+    zone: 'Airport',
     city: 'Cancún',
     state: 'Quintana Roo',
     postalCode: '77500',
@@ -48,7 +48,7 @@ export const SOCIAL_LINKS = {
     facebook: 'https://www.facebook.com/gotransfers.us',
     instagram: 'https://www.instagram.com/gotransfers.us/',
     tripadvisor: 'https://www.tripadvisor.com.mx/',
-    twitter: '@CancunAirportT',
+    twitter: '@CunAirportShutt',
 } as const;
 
 // =============================================================================
@@ -78,9 +78,9 @@ export const BUSINESS_HOURS = {
 // =============================================================================
 
 export const BUSINESS_DATA = {
-    name: "Cancun Airport Transportation",
-    legalName: "Cancun Airport Transportation by Go Transfers",
-    url: "https://cancunsairporttransportation.com",
+    name: "Cancun Airport Shuttle",
+    legalName: "Cancun Airport Shuttle by Go Transfers",
+    url: "https://cunairportshuttle.com",
     logo: "/assets/img/logo.png",
     ogImage: "/og-image.jpg",
     contact: {

@@ -58,6 +58,7 @@ const t = getTranslations(lang)
     slot='seo'
     jsonType='TouristDestination'
     ogImage={safeTripBookingImg.src}
+    useTagLine={lang === 'en' ? false : true}
   />
 
   <!-- Form -->
@@ -92,6 +93,7 @@ const t = getTranslations(lang)
       contentKey={contentKey}
       section='howToMove'
       fieldKey='content'
+      imageAltKey='imageAlt'
       image={howToMoveImg}
       imageClass='object-right'
       layout='flex'
@@ -109,6 +111,8 @@ const t = getTranslations(lang)
     title={t('global.sections.clientGallery.title')}
     subtitle={t('global.sections.clientGallery.subtitle')}
     images={[client1Img, client2Img, client3Img, client4Img]}
+    imageAlt={lang === 'en' ? 'Cancun Airport Shuttle to Tulum' : undefined}
+    imageTitle={lang === 'en' ? 'Cancun Airport Shuttle to Tulum' : undefined}
   />
 
   <!-- Destinations -->
@@ -121,7 +125,7 @@ const t = getTranslations(lang)
   />
 
   <!-- Rates Table -->
-  <RatesTable />
+  <RatesTable title={t(`pages.${contentKey}.ratesTable.title`)} />
 
   <!-- FAQs -->
   <FaqSection contentKey={contentKey} />

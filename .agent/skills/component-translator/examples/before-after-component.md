@@ -20,7 +20,7 @@ const { class: className } = Astro.props;
 <section class={className} id="testimonials">
   <div class="container">
     <h2>Comments from our customers</h2>
-    <p>Discover why our customers choose Cancun Airport Transportation by Go</p>
+    <p>Discover why our customers choose Cancun Airport Shuttle by Go</p>
     
     <div class="testimonials-grid">
       <article>
@@ -61,7 +61,7 @@ const { class: className } = Astro.props;
     "home": {
       "testimonials": {
         "title": "Comments from our customers",
-        "description": "Discover why our customers choose Cancun Airport Transportation by Go",
+        "description": "Discover why our customers choose Cancun Airport Shuttle by Go",
         "items": {
           "item1": {
             "name": "Juan P.",

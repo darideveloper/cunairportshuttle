@@ -13,7 +13,7 @@ export const routes = {
   },
   tulum: {
     en: "cancun-to-tulum-shuttle",
-    es: "es/traslado-cancun-tulum",
+    es: "es/transporte-de-cancun-a-tulum",
   },
   destinations: {
     en: "destinations",
@@ -32,7 +32,7 @@ export const routes = {
     es: "es/transporte-privado-cancun",
   },
   playa: {
-    en: "transportation-from-cancun-airport-to-playa-del-carmen",
+    en: "shuttle-from-cancun-to-playa-del-carmen",
     es: "es/transportacion-cancun-a-playa-del-carmen",
   },
   merida: {

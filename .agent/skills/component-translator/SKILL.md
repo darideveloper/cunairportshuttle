@@ -113,7 +113,7 @@ Identify all text that needs translation:
   <Image
     src={serviceImage}
     alt="Professional transportation service"
-    title="Cancun Airport Transportation"
+    title="Cancun Airport Shuttle"
   />
   <p>We provide reliable transportation services.</p>
   <button aria-label="Book your transportation now">
@@ -124,7 +124,7 @@ Identify all text that needs translation:
 
 **Text to extract**:
 - Visible: "Our Services", "We provide reliable transportation services.", "Book Now"
-- Metadata: "Professional transportation service", "Cancun Airport Transportation", "Book your transportation now"
+- Metadata: "Professional transportation service", "Cancun Airport Shuttle", "Book your transportation now"
 
 ### Step 3: Determine Translation Type
 
@@ -383,10 +383,10 @@ Ensure translation keys match the OpenSpec proposal name.
 2. **Be descriptive**
    ```json
    // Good
-   "bannerTitle": "Cancun Airport Transportation"
+   "bannerTitle": "Cancun Airport Shuttle"
    
    // Bad
-   "title": "Cancun Airport Transportation"
+   "title": "Cancun Airport Shuttle"
    ```
 
 3. **Group related keys**
@@ -424,7 +424,7 @@ Always translate metadata:
 ```json
 {
   "imageAlt": "Professional driver greeting passengers at Cancun Airport",
-  "imageTitle": "Cancun Airport Transportation Service",
+  "imageTitle": "Cancun Airport Shuttle Service",
   "ariaLabel": "Book your transportation now"
 }
 ```

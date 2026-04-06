@@ -1,7 +1,7 @@
 {
   "global": {
     "branding": {
-      "businessName": "Cancun Airport Transportation"
+      "businessName": "Cancun Airport Shuttle"
     },
     "accessibility": {
       "callAction": "Call {label}: {phone}",
@@ -47,12 +47,12 @@
           "title": "Destinations",
           "links": [
             {
-              "text": "Cancun Airport Transportation",
+              "text": "Cancun Airport Shuttle",
               "href": "/"
             },
             {
               "text": "Playa del Carmen Transfers",
-              "href": "/transportation-from-cancun-airport-to-playa-del-carmen"
+              "href": "/shuttle-from-cancun-to-playa-del-carmen"
             },
             {
               "text": "Cancun to Tulum Shuttle",
@@ -128,8 +128,8 @@
           "phones": [
             {
               "label": "From USA & Canada",
-              "value": "+1 (929) 999-1258",
-              "href": "tel:+19299991258"
+              "value": "+1 (323) 763-5379",
+              "href": "tel:+13237635379"
             },
             {
               "label": "Mexico & Rest of the world",
@@ -153,12 +153,13 @@
     "menubar": {
       "nav": {
         "ariaLabel": "Main Navigation",
-        "cancun": "Cancun Airport Transportation",
+        "cancun": "Cancun Airport Shuttle",
         "carmen": "Playa del Carmen Transfers",
         "tulum": "Cancun to Tulum Shuttle",
         "blog": "Blog"
       },
       "cta": "My Booking",
+      "myReservation": "My reservation",
       "topSection": {
         "text": "Menu"
       },
@@ -185,6 +186,10 @@
         "pickupTime": "Pickup time",
         "passengers": "Passengers"
       },
+      "placeholders": {
+        "leavingFrom": "Enter the pickup location",
+        "goingTo": "Enter your destination"
+      },
       "submit": "Search",
       "summary": {
         "capacity": "Capacity {maxPassengers} passengers.",
@@ -196,13 +201,13 @@
       }
     },
     "ratesTable": {
-      "title": "Cancun Airport Transportation Rates",
+      "title": "Cancun Shuttle Rates",
       "description": "Transportation Service Prices by Destinations",
       "headers": {
         "destination": "Destination",
-        "private": "Private Taxi",
-        "luxury": "Luxury Taxi",
-        "group": "Taxi for Groups",
+        "private": "Private Shuttle",
+        "luxury": "Luxury Shuttle",
+        "group": "Shuttle for Groups",
         "oneWay": "One Way",
         "roundTrip": "Round Trip",
         "pax1to8": "1-8 passengers",
@@ -270,15 +275,15 @@
       }
     },
     "locations": {
-      "title": "Information about Cancun Airport Transportation Location",
+      "title": "Information about Cancun Airport Shuttle Location",
       "contacts": {
         "usaCanada": {
           "label": "From USA / Canada",
-          "value": "+1 (929) 999-1258"
+          "value": "+1 (323) 763-5379"
         },
         "address": {
           "label": "Address",
-          "value": "Av. Prol. La Luna 132, 77533 Cancún, Q.R."
+          "value": "Carr. Cancun-Chetumal km. 22 Terminal 2 Loc. CUN- 2385, 77500 Cancún, Q.R."
         },
         "mexicoRest": {
           "label": "México & Rest of the world",
@@ -286,7 +291,7 @@
         }
       },
       "transportationTimes": {
-        "title": "Transportation Time to the main locations",
+        "title": "Shuttle Time to Main Locations:",
         "items": [
           {
             "id": "cancun",
@@ -332,30 +337,30 @@
       },
       "bannerStats": {
         "title": "With more than a decade of experience",
-        "description": "Offering you the best transportation service for you and your family, so you can enjoy the Riviera Maya.",
+        "description": "Providing you and your family with the finest shuttle service, ensuring you can fully enjoy the Riviera Maya.",
         "stats": {
           "clients": {
             "text": "Happy Clients",
-            "imageAlt": "Icon representing happy clients",
-            "imageTitle": "Happy Clients"
+            "imageAlt": "21k+",
+            "imageTitle": "21k+"
           },
           "transportation": {
             "text": "Operated Transportation",
-            "imageAlt": "Icon representing operated transportation",
-            "imageTitle": "Operated Transportation"
+            "imageAlt": "19,517",
+            "imageTitle": "21,517"
           },
           "destinations": {
             "text": "Available destinations",
-            "imageAlt": "Icon representing available destinations",
-            "imageTitle": "Available destinations"
+            "imageAlt": "10,622",
+            "imageTitle": "10,622"
           }
         }
       },
       "whyChooseUs": {
-        "title": "Why choose us?",
-        "imageAlt": "Trip Advisor 2024",
+        "title": "Why use the Cancun Airport Shuttle",
+        "imageAlt": "Our happy customers",
         "imageTitle": "2024 Traveller's Choice",
-        "text": "With many private transfer agencies in Cancun, it’s important to know why we stand out.\n\nAt Cancun Airport Transportation by Go, we understand that after a long flight, the last thing you want is to wait at the airport to get to your hotel and start your vacation. We know you’re tired from a flight of two hours or more, and the last thing you want is to deal with long taxi lines or wait nearly an hour for public transportation, dealing with the noise and movements of other passengers.\n\nThat’s why our transfer service is perfect for you: We offer lower prices than our competitors, first-class service, and a commitment to ensuring you enjoy your vacation to the fullest. For these reasons and more, choose us for your transportation needs.",
+        "text": "Why book with Cancun Airport Shuttle? There are many private transfer agencies in the city of Cancun and it is fair to ask yourself why you should choose us.\n\nWe \"Cancun Airport Shuttle\" know that the last thing you want is to wait longer than necessary at the Cancun airport to get to your hotel and start enjoying your vacation, we know that you arrive tired from a flight of 2 hours or more and the last thing you want is to deal with lines to board a taxi or wait almost an hour to board a public transportation and be interrupted by the noise and movements of other passengers.\n\nBesides, we know you don't want to spend more than necessary and that's why our transfer service is for you: We have lower prices than the competition, a first-class service, and our mission will always be that you enjoy your vacation to the fullest. For that and much more you have to choose us.",
         "items": [
           {
             "text": "10 Years of Experience",
@@ -403,9 +408,9 @@
         "description": "We help you to clear your doubts about our transportation services"
       },
       "safeTrip": {
-        "title": "Safe trip and booking with Cancun Airport Transportation by Go Transfers",
-        "imageAlt": "Cancun Airport Transportation by Go Transfers",
-        "text": "Are you excited to kick off your vacation in Cancun? Don't forget something important! That's right—you still need to book your private shuttle and transportation service in Cancun and the Riviera Maya. \n\n\nBut don't worry, there's still time! You can book your private transportation service, luxury transportation, or group transportation, ensuring that all you need to do is look forward to your flight and the warm, friendly reception from our Cancun Airport Transportation drivers.\n\n\nWith over 15 years of experience in providing shuttle services, we are dedicated to offering safe and reliable transportation for all our customers. Our drivers undergo continuous training to ensure you receive first-class service. Don't delay—book now with Cancun Airport Transportation by Go."
+        "title": "Safe trip and booking with Cancun Airport Shuttle",
+        "imageAlt": "Cancun Airport Shuttle by Go Transfers",
+        "text": "Are you ready to start enjoying your vacations in Cancun? Aren't you forgetting something? Of course, you are! You haven't booked your private shuttle and transportation service in Cancun and the Riviera Maya yet.\n\nBut you are still in time to do it. You are still in time to book your private transportation service, luxury transportation, or group transportation, so you don't have to worry about anything else but waiting for your flight day and being received in a cordial, friendly, and warm way by our team of Cancun Airport Shuttle drivers in the city.\n\nWe have more than 15 years of experience operating shuttle services, and we are committed to providing a safe and reliable shuttle to each one of our customers.\n\nOur drivers are always under training to provide first-class service; don't wait any longer and book. Book now with Cun Airport Shuttle and Go Transfers."
       },
       "pricingServices": {
         "cards": {
@@ -430,8 +435,9 @@
         }
       },
       "reliableService": {
-        "title": "Reliable Transportation Service",
-        "description": "With over 10 years of experience providing private transportation services, Cancun Airport Transportation by Go is the number #1 Cancun Airport Transfers company in Cancun from Cancun Airport to hotels in Cancun and Riviera Maya.\n\nCancun Airport Transportation provides private, safe, and reliable Cancun airport shuttle services to your hotel or lodging in the Cancun Hotel Zone, Downtown Cancun, Playa Mujeres, Puerto Morelos, Playa del Carmen, Puerto Aventuras, Akumal, Tulum or any part of the Riviera Maya.",
+        "title": "Cancun Airport Shuttle is the favorite company in Cancun",
+        "imageAlt": "More than 10 years of experience",
+        "description": "Enjoy dependable transportation services, primed to whisk you away to your desired destination within Cancun and the Riviera Maya. Whether it's a hotel, resort, airport, theme park, or archaeological site, if it's on the map, consider it taken care of by our reliable team.\n\nOur vehicles are equipped to ensure your comfort, while our skilled drivers boast both expertise and a service-oriented mindset.\n\nAs a licensed shuttle company, we hold all the necessary permits to operate seamlessly within the airport premises.",
         "cta": {
           "label": "Client Photos",
           "sublabel": "See more client pictures"
@@ -455,7 +461,7 @@
       },
       "clientGallery": {
         "title": "Gallery Of Customer",
-        "subtitle": "Find out how our customers are enjoying their time with us.",
+        "subtitle": "Discover how our customers are making the most of their time with us.",
         "imageAlt": "Client photo {index}",
         "imageTitle": "Client photo {index}"
       },
@@ -494,7 +500,7 @@
         "priceFrom": "Price from",
         "bookNow": "Book now",
         "features": {
-          "privateService": "Private Service",
+          "privateService": "Shuttle Service",
           "taxesIncluded": "Includes airport taxes and traveler's insurance",
           "service24h": "24H service hours"
         }
@@ -527,7 +533,7 @@
       },
       "form": {
         "name": {
-          "label": "Name",
+          "label": "Name ",
           "placeholder": "Write your full name"
         },
         "email": {
@@ -560,7 +566,7 @@
       "cards": {
         "usa": {
           "title": "From USA / Canada",
-          "text": "+1 (929) 999-1258"
+          "text": "+1 (323) 763-5379"
         },
         "mexico": {
           "title": "México & Rest of the world",
@@ -573,14 +579,13 @@
       }
     },
     "privacy": {
-      "title": "Privacy Policy",
-      "description": "Information about how we handle your personal data.",
-      "keywords": "privacy policy, data protection, cancun transportation privacy",
-      "content": "## Privacy Policy\n\nYour privacy is important to us. It is Cancun Airport Transportation's policy to respect your privacy regarding any information we may collect from you across our website.\n\n### 1. Information we collect\nWe only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent.\n\n### 2. Use of Information\nWe only retain collected information for as long as necessary to provide you with your requested service.\n\n### 3. Data Protection\nWe protect your data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification."
+      "title": "Privacy Policy | Cun Airport Shuttle",
+      "description": "Updated privacy notice regarding data collection, payment security via Openpay and PayPal, and ARCO rights compliance.",
+      "keywords": "privacy policy, data protection, payment security, Openpay, PayPal, ARCO rights, Cancun transportation"
     },
     "reservation": {
-      "title": "My Reservation | Cancun Airport Transportation",
-      "description": "Manage your reservation with Cancun Airport Transportation. View details, make changes, or contact support.",
+      "title": "My Reservation | Cancun Airport Shuttle",
+      "description": "Manage your reservation with Cancun Airport Shuttle. View details, make changes, or contact support.",
       "form": {
         "heading": "MY RESERVATION",
         "code": {
@@ -597,8 +602,8 @@
       }
     },
     "reservationDetail": {
-      "title": "Reservation Details | Cancun Airport Transportation",
-      "description": "View the full details of your reservation with Cancun Airport Transportation.",
+      "title": "Reservation Details | Cancun Airport Shuttle",
+      "description": "View the full details of your reservation with Cancun Airport Shuttle.",
       "heading": "Reservations data",
       "user": {
         "greeting": "Hi, {name}",
@@ -627,9 +632,9 @@
     },
     "register": {
       "title": "RESERVATION DATA",
-      "description": "Create an account with Cancun Airport Transportation to manage your bookings and access exclusive offers.",
+      "description": "Create an account with Cancun Airport Shuttle to manage your bookings and access exclusive offers.",
       "keywords": "register cancun transportation, create account cancun airport shuttle",
-      "serviceNotice": "Thank you for choosing Cancun Airport Transportation by Go Transfers ®, this information will help us give you a better service and in any case of changes on your service.",
+      "serviceNotice": "Thank you for choosing Cancun Airport Shuttle by Go Transfers ®, this information will help us give you a better service and in any case of changes on your service.",
       "arrivalInformation": {
         "title": "Arrival Information",
         "pickupDate": "Pick-up Date",
@@ -693,73 +698,73 @@
       }
     },
     "thankYou": {
-      "title": "Thank You | Cancun Airport Transportation",
-      "description": "Thank you for your booking with Cancun Airport Transportation.",
+      "title": "Thank You | Cancun Airport Shuttle",
+      "description": "Thank you for your booking with Cancun Airport Shuttle.",
       "keywords": "thank you cancun transportation, booking confirmed cancun shuttle",
       "heading": "THANK YOU!",
       "message": "Your reservation has been received successfully. We will send you a confirmation email shortly."
     },
     "cancel": {
-      "title": "Booking Cancelled | Cancun Airport Transportation",
+      "title": "Booking Cancelled | Cancun Airport Shuttle",
       "description": "Your booking process has been cancelled.",
       "heading": "BOOKING CANCELLED",
       "message": "The booking process was cancelled. If you have any questions, please contact us."
     },
     "home": {
-      "title": "Cancun Airport Transportation | Private & Shuttle Transfers to Cancun and Riviera Maya",
-      "description": "Book reliable Cancun Airport Transportation for transfers to Cancun Hotel Zone, Playa del Carmen, Tulum, and the Riviera Maya. Choose from private services, shuttles, taxis, and VIP options. Safe and economical transfers available 24/7",
-      "keywords": "cancun airport transportation, cancun shuttle, private transportation cancun",
-      "bannerTitle": "Cancun Airport Transportation",
-      "bannerAlt": "A fleet of Cancun Airport Transportation vans parked at a terminal, ready for passenger pickup.",
-      "bannerImageTitle": "Professional Shuttle Service in Cancun",
+      "title": "Cancun Airport Shuttle | Private & Shuttle Transfers to Cancun and Riviera Maya",
+      "description": "Book reliable Cancun Airport Shuttle for transfers to Cancun Hotel Zone, Playa del Carmen, Tulum, and the Riviera Maya. Choose from private services, shuttles, taxis, and VIP options. Safe and economical transfers available 24/7",
+      "keywords": "cancun airport shuttle, cancun shuttle, private transportation cancun",
+      "bannerTitle": "Cancun Airport Shuttle",
+      "bannerAlt": "30% discount promotion plus payment on arrival",
+      "bannerImageTitle": "Super Offer | Pay on Arrival + 30% Discount",
       "welcome": "Hello world",
       "destinations": {
-        "title": "Cancun Airport Transportation to Hotel Zone and more destinations",
-        "text": "The Riviera Maya spans more than 250 kilometers of stunning coastline, encompassing not only the famous city of Cancun but also vibrant destinations such as Playa del Carmen, Isla Mujeres, Cozumel, Tulum, and several other enchanting locations.",
+        "title": "Cancun Shuttle Service from Cancun Airport and more destinations",
+        "text": "The Riviera Maya is a coastal extension that covers more than 250 km in length and among them is the popular city of Cancun, but not only this city: We can also find the city of Playa del Carmen, Isla Mujeres, Cozumel, Tulum, and several others.",
         "viewMore": "View more destinations",
         "viewMoreLink": "/destinations",
         "cards": {
           "tulum": {
-            "title": "Cancun Airport Transportation to Tulum",
-            "description": "Tulum, a city located within the Riviera Maya, is approximately a 2-hour drive from Cancun. Renowned for its breathtaking beaches, historic archaeological sites, and amazing jungle hotels, Tulum is a must-visit destination.",
+            "title": "Shuttle from Cancun Airport to Tulum",
+            "description": "Tulum is one of the cities that are part of the Riviera Maya and is almost 2 hours drive from Cancun. A city that stands out for its beaches, archaeological sites, and incredible jungle hotels.",
             "ctaText": "Book now",
             "link": "/cancun-to-tulum-shuttle"
           },
           "playa": {
-            "title": "Cancun Airport Transportation to Playa del Carmen",
-            "description": "Our transportation and taxi services will bring you to any hotel, vacation home, or Airbnb in Playa del Carmen, the vibrant heart of the Riviera Maya. With us, your adventure is just around the corner!",
+            "title": "Shuttle from Cancun Airport to Playa del Carmen",
+            "description": "Our shuttle service and cab service can take you to any hotel, vacation home, or Airbnb in Playa del Carmen, which is considered the heart of the Riviera Maya. The fun will be just around the corner!",
             "ctaText": "Book now",
-            "link": "/transportation-from-cancun-airport-to-playa-del-carmen"
+            "link": "/shuttle-from-cancun-to-playa-del-carmen"
           },
           "cancun": {
-            "title": "Cancun Airport Transportation to Cancun Hotel Zone",
-            "description": "Cancun’s hotel zone is the city’s top destination, featuring 4 and 5-star hotels that offer the best views of the Caribbean Sea and the most unforgettable vacation experience you can imagine.",
+            "title": "Shuttle from Cancun Airport to Cancun Hotel Zone",
+            "description": "Cancun's hotel zone is the most popular destination in the city and its 4 and 5-star hotels will give you the best view of the Caribbean Sea and the best vacation experience you can imagine.",
             "ctaText": "Book now",
             "link": "/"
           }
         }
       },
       "testimonials": {
-        "title": "Comments from our customers",
-        "description": "Discover why our customers choose Cancun Airport Transportation by Go",
+        "title": "Comments from our Customers",
+        "description": "Find out why our customers choose us.",
         "items": {
           "item1": {
             "name": "Juan P.",
-            "text": "I hired the transportation service to go from Cancun to Tulum and was impressed with the punctuality and professionalism of the driver. The vehicle was in excellent condition and the trip was very comfortable. I will recommend this service to my friends and family.",
+            "text": "Few companies offer a customized service, so we contracted with them for a service from the hotel to the airport, the pick up was 5 minutes before and they waited for us at the hotel exit for the return to the hotel. The service was excellent and the driver was very attentive.",
             "imageAlt": "Comment from our customer Juan P.",
             "imageTitle": "Comment from our customer Juan P.",
             "stars": "5"
           },
           "item2": {
             "name": "Ana G.",
-            "text": "Our transfer from Cancun airport to our hotel in Playa del Carmen was perfect. The driver was amiable and gave us excellent recommendations on places to visit. Also, the price was very reasonable. Excellent service!",
+            "text": "Very good service from the Cancun Airport Shuttle. Friendly and punctual staff. Thanks to Manuel for making our trip to the airport very enjoyable. We will repeat.",
             "imageAlt": "Comment from our customer Ana G.",
             "imageTitle": "Comment from our customer Ana G.",
             "stars": "5"
           },
           "item3": {
             "name": "Carlos R.",
-            "text": "I used this service for a day trip to Chichen Itza and everything was wonderful. The driver was on time, the vehicle was very comfortable and clean, and the ride was safe. We loved the experience and will use this service again in the future.",
+            "text": "I have used the Cancun Airport Shuttle twice this year for transportation to and from the Cancun airport. Their service has been excellent both times. They are on time, very cost-effective, and very easy to communicate with.",
             "imageAlt": "Comment from our customer Carlos R.",
             "imageTitle": "Comment from our customer Carlos R.",
             "stars": "5"
@@ -767,30 +772,30 @@
         }
       },
       "pricing": {
-        "title": "Our Transportation Services",
-        "subtitle": "List of our transportation services",
+        "title": "Our Shuttle Services",
+        "subtitle": "List of our shuttle services",
         "cards": {
           "luxury": {
-            "title": "Luxury Transportation",
-            "description": "Elevate your shuttle experience with our luxury transfer service, taking you to and from Cancun Airport to your hotel in Cancun or the Riviera Maya. Our luxury service accommodates 1 to 5 passengers in a Suburban or a similar high-end vehicle."
+            "title": "Luxury Shuttle",
+            "description": "Take your shuttle experience to another level from and to the Cancun airport to your hotel in Cancun or the Riviera Maya with our luxury transfer service. A service for 1 to 5 passengers in a Suburban or similar unit."
           },
           "private": {
-            "title": "Private Transportation",
-            "description": "Our transportation and private transfer service is one of the most popular and affordable options in Cancun and the Riviera Maya. We offer spacious, air-conditioned, safe, and clean vehicles that can accommodate 1 to 8 people comfortably."
+            "title": "Private Shuttle",
+            "description": "Our shuttle and private transportation service is one of the most requested and economical in Cancun and the Riviera Maya. A service with a capacity from 1 to 8 people in a spacious, air-conditioned, safe, and clean unit."
           },
           "group": {
-            "title": "Group Transportation",
-            "description": "Traveling with a group of more than 8 passengers? Save money and book our group transportation service. Our spacious and safe vehicles can accommodate up to 16 passengers, ensuring everyone travels comfortably together."
+            "title": "Group Shuttle",
+            "description": "Are you traveling with a group of more than 8 passengers? Then do not pay more and book with us our transfer service for groups, a service with the capacity to carry up to 16 passengers and all traveling comfortably and safely in our units."
           }
         }
       },
       "bannerCta": {
-        "title": "Cancun Airport Transportation",
-        "text": "We will provide private transportation to and from your Hotel, Condo or house in any destination in Cancun or the Riviera Maya, either One Way or Round Trip.\n\nAs our name is Cancun Airport Transportation, you might think we only do transfers from the Cancun Airport."
+        "title": "Cancun Airport Shuttle",
+        "text": "We offer shuttle services to and from your hotel, condo, or house in any destination within Cancun or the Riviera Maya, whether you need a one-way or round-trip transfer.\n\nDespite our name, Cancun Airport Shuttle, we provide much more than just transfers from the Cancun Airport."
       },
       "transportationServices": {
-        "title": "Cancun Airport Transportation Services",
-        "description": "At Cancun Airport Transportation by Go Transfers, we offer modern and comfortable vehicles to ensure smooth and reliable transfers from Cancun Airport. You can easily book any of our services through our website.\n\nIn addition to airport transfers, we provide comprehensive transportation solutions to take you anywhere in Cancun and the Riviera Maya. Our wide range of services is designed to meet all your travel needs.",
+        "title": "Cancun Airport Shuttle Services",
+        "description": "At Cancun Airport Shuttle by Go Transfers, we offer modern and comfortable vehicles to ensure smooth and reliable transfers from Cancun Airport. You can easily book any of our services through our website.\n\nIn addition to airport transfers, we provide comprehensive transportation solutions to take you anywhere in Cancun and the Riviera Maya. Our wide range of services is designed to meet all your travel needs.",
         "items": {
           "airportToHotel": {
             "title": "Airport to Hotel",
@@ -806,40 +811,41 @@
           },
           "hotelToPark": {
             "title": "Hotel to Park",
-            "text": "Planning to visit Xcaret, Xel-Ha, Xoximilco, or the Mayan Museum in Cancun? Cancun Transfer Services can take you to any of these amazing parks."
+            "text": "Planning to visit Xcaret, Xel-Ha, Xoximilco, or the Mayan Museum in Cancun? Cancun Airport Shuttle can take you to any of these amazing parks."
           }
         }
       },
       "faq": {
-        "title": "Cancun Airport Transportation Faqs",
+        "title": "Cancun Shuttle Airport Faqs",
+        "description": "We help you to clear your doubts about our transportation services",
         "items": {
           "whyBook": {
-            "question": "Why book with Cancun Airport Transportation by Go?",
-            "answer": "Cancun Airport Transportation by Go Transfers offers convenient and reliable transfers between Cancun International Airport (CUN) and various destinations in the surrounding area, including hotels, resorts, and tourist attractions."
+            "question": "Why book with Cancun Airport Shuttle?",
+            "answer": "Cancun Airport Shuttle is a transportation service that provides convenient and reliable transfers between Cancun International Airport (CUN) and various destinations in the surrounding area, such as hotels, resorts, and tourist attractions."
           },
           "howToBook": {
-            "question": "How do I book a Cancun Airport Transportation?",
-            "answer": "Booking with Cancun Airport Transportation by Go is typically done online through their website. Alternatively, you can call us directly to make a reservation."
+            "question": "How do I book a Cancun Airport Shuttle?",
+            "answer": "Booking with Cancun Airport Shuttle is typically done online through its website. Also, you can book a call to our phone number."
           },
           "vehicleTypes": {
-            "question": "What types of vehicles are available for Cancun Airport Transportation?",
-            "answer": "The types of vehicles available for Cancun Airport Transportation can vary depending on the shuttle service. Common options include private vans, luxury vehicles, and even mini buses for group service."
+            "question": "What types of vehicles are available for Cancun Airport Shuttle transfers?",
+            "answer": "The types of vehicles available for Cancun Airport Shuttle transfers can vary depending on the shuttle service. Common options include private vans, luxury vehicles, and even crafters for group service."
           },
           "cost": {
-            "question": "How much does a Cancun Airport Transportation cost?",
-            "answer": "The cost of Cancun Airport Transportation can vary based on factors such as the distance of the transfer, the type of vehicle selected, and the number of passengers."
+            "question": "How much does a Cancun Airport Shuttle cost?",
+            "answer": "The cost of a Cancun Airport Shuttle can vary depending on factors such as the distance of the transfer, the type of vehicle chosen, and number of passengers."
           },
           "safe": {
-            "question": "Are Cancun Airport Transportations safe?",
-            "answer": "Yes, reputable Cancun Airport Transportation services prioritize passenger safety and maintain their vehicles to the highest standards."
+            "question": "Are Cancun Airport Shuttles safe?",
+            "answer": "Yes, reputable Cancun Airport Shuttle services prioritize passenger safety and maintain their vehicles to high standards. "
           },
           "changes": {
-            "question": "Can I make changes to my Cancun Airport Transportation reservation?",
-            "answer": "Yes, you can. You can modify your reservation by contacting our customer service team in advance."
+            "question": "Can I make changes to my Cancun Airport Shuttle reservation?",
+            "answer": "Yes, you can. You can make changes to your reservation by contacting our customer service team in advance."
           },
           "flightDelay": {
             "question": "What should I do if my flight is delayed or canceled?",
-            "answer": "If your flight is delayed or canceled, it’s crucial to inform us as soon as possible to reschedule your transfer. We can adjust the service, but we ask that you contact us promptly."
+            "answer": "If your flight is delayed or canceled, it's crucial to inform us as soon as possible to reschedule your transfer. We can reschedule the service however we will ask you to contact us as soon as possible."
           }
         }
       },
@@ -859,8 +865,8 @@
       }
     },
     "private": {
-      "title": "Private Airport Transfers Cancun | Cancun Airport Transportation by Go Transfers",
-      "description": "Private Transfer Cancun Airport to all hotels in Cancun, Playa del Carmen, Tulum and more destinations in Riviera Maya. Private Airport Transfer Cancun with Cancun Airport Transportation by Go Transfers.",
+      "title": "Private Airport Transfers Cancun | Cancun Airport Shuttle by Go Transfers",
+      "description": "Private Transfer Cancun Airport to all hotels in Cancun, Playa del Carmen, Tulum and more destinations in Riviera Maya. Private Airport Transfer Cancun with Cancun Airport Shuttle by Go Transfers.",
       "includes": {
         "keywords": "private transportation cancun, private airport transfer, cancun private shuttle, exclusive transfer cancun",
         "title": "All our Cancun Private Transfers include:",
@@ -935,7 +941,7 @@
       },
       "privateDetails": {
         "title": "Cancun Private Transportation",
-        "description": "Our Private Transportation service in Cancun is the perfect option for moving from the airport. With a capacity for up to 8 passengers and an affordable price, you can enjoy a comfortable and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nWithout a doubt, our private transportation service from Cancun is the most popular choice for Cancun airport transfers. Private transportation is available all day long, no need to share the vehicle with strangers or make unnecessary stops on the way to your hotel. Cancun Airport Transportation by Go Transfers offers a safe and affordable service, with airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With more than 10 years of experience offering private transfers in Cancun with the highest quality, we provide our clients with the best experience on their trip through a personalized service.",
+        "description": "Our Private Transportation service in Cancun is the perfect option for moving from the airport. With a capacity for up to 8 passengers and an affordable price, you can enjoy a comfortable and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nWithout a doubt, our private transportation service from Cancun is the most popular choice for Cancun airport transfers. Private transportation is available all day long, no need to share the vehicle with strangers or make unnecessary stops on the way to your hotel. Cancun Airport Shuttle by Go Transfers offers a safe and affordable service, with airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With more than 10 years of experience offering private transfers in Cancun with the highest quality, we provide our clients with the best experience on their trip through a personalized service.",
         "table": {
           "title": "Cancun Airport Private Transportation Prices",
           "headers": {
@@ -1041,7 +1047,7 @@
       },
       "privateDetails": {
         "title": "Cancun Airport Taxi",
-        "description": "Our Cancun Airport Taxi service is the ideal choice for traveling from the airport. Designed to accommodate up to 3 passengers, our service offers a convenient, comfortable, and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nUnquestionably, our taxi service is the top choice for taxi service in Cancun Airport. Available around the clock, this service ensures you travel exclusively with your party, avoiding the need to share the vehicle with strangers or make unnecessary stops on the way to your destination.\n\nCancun Airport Taxi service by Cancun Airport Transportation provides a secure and reliable service, featuring airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With over 10 years of experience in offering taxi transfers in Cancun, we ensure our clients have the best experience on their journey with personalized and top-tier service.",
+        "description": "Our Cancun Airport Taxi service is the ideal choice for traveling from the airport. Designed to accommodate up to 3 passengers, our service offers a convenient, comfortable, and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nUnquestionably, our taxi service is the top choice for taxi service in Cancun Airport. Available around the clock, this service ensures you travel exclusively with your party, avoiding the need to share the vehicle with strangers or make unnecessary stops on the way to your destination.\n\nCancun Airport Taxi service by Cancun Airport Shuttle provides a secure and reliable service, featuring airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With over 10 years of experience in offering taxi transfers in Cancun, we ensure our clients have the best experience on their journey with personalized and top-tier service.",
         "table": {
           "title": "Taxi Cancun Airport - Prices",
           "headers": {
@@ -1071,8 +1077,8 @@
       }
     },
     "luxury": {
-      "title": "Cancun Luxury Transportation | Cancun Airport Transportation by Go Transfers",
-      "description": "Cancun Luxury Transportation to all hotels in Cancun, Playa del Carmen, Tulum, and more destinations in Riviera Maya. Cancun Airport Luxury Transportation by Cancun Airport Transportation",
+      "title": "Cancun Luxury Transportation | Cancun Airport Shuttle by Go Transfers",
+      "description": "Cancun Luxury Transportation to all hotels in Cancun, Playa del Carmen, Tulum, and more destinations in Riviera Maya. Cancun Airport Luxury Transportation by Cancun Airport Shuttle",
       "keywords": "cancun luxury transportation, vip transfer cancun, premium airport shuttle, luxury car service cancun",
       "includes": {
         "keywords": "cancun luxury transportation, vip transfer cancun, premium airport shuttle, luxury car service cancun",
@@ -1148,7 +1154,7 @@
       },
       "privateDetails": {
         "title": "Cancun Luxury Transportation",
-        "description": "Our Cancun Airport Luxury Transportation is the ultimate choice for traveling from the airport. Designed to accommodate up to 8 passengers, our service offers a premium, comfortable, and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nUnquestionably, our luxury transportation service is the top choice for Cancun airport transfers. Available around the clock, this service ensures you travel exclusively with your party, avoiding the need to share the vehicle with strangers or make unnecessary stops on the way to your destination.\n\nCancun Airport Transportation by Go Transfers provides a secure and elegant service, featuring airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With over 10 years of experience in offering luxury transfers in Cancun, we ensure our clients have the best experience on their journey with personalized and top-tier service.",
+        "description": "Our Cancun Airport Luxury Transportation is the ultimate choice for traveling from the airport. Designed to accommodate up to 8 passengers, our service offers a premium, comfortable, and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nUnquestionably, our luxury transportation service is the top choice for Cancun airport transfers. Available around the clock, this service ensures you travel exclusively with your party, avoiding the need to share the vehicle with strangers or make unnecessary stops on the way to your destination.\n\nCancun Airport Shuttle by Go Transfers provides a secure and elegant service, featuring airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With over 10 years of experience in offering luxury transfers in Cancun, we ensure our clients have the best experience on their journey with personalized and top-tier service.",
         "table": {
           "title": "Cancun Airport Luxury Transportation Prices",
           "headers": {
@@ -1178,8 +1184,8 @@
       }
     },
     "group": {
-      "title": "Cancun Group Transportation | Cancun Airport Transportation by Go Transfers",
-      "description": "Transportation for groups to all hotels in Cancun, Playa del Carmen, Tulum, and more destinations in Riviera Maya. Cancun Group Transportation with Cancun Airport Transportation by Go Transfers",
+      "title": "Cancun Group Transportation | Cancun Airport Shuttle by Go Transfers",
+      "description": "Transportation for groups to all hotels in Cancun, Playa del Carmen, Tulum, and more destinations in Riviera Maya. Cancun Group Transportation with Cancun Airport Shuttle by Go Transfers",
       "keywords": "group transportation cancun, large group transfer, cancun bus rental, event transportation cancun",
       "includes": {
         "keywords": "group transportation cancun, large group transfer, cancun bus rental, event transportation cancun",
@@ -1255,7 +1261,7 @@
       },
       "privateDetails": {
         "title": "Cancun Group Transportation",
-        "description": "Our Group Transportation service in Cancun is the ideal choice for moving from the airport. With a capacity for up to 15 passengers and an affordable price, you can enjoy a comfortable and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nWithout a doubt, our group transportation service from Cancun is the most popular choice for Cancun Airport Group Transfers. Group transportation is available all day long, no need to share the vehicle with strangers or make unnecessary stops on the way to your hotel.\n\nCancun Airport Transportation by Go Transfers offers a safe and affordable service, with airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With more than 10 years of experience offering group transfers in Cancun with the highest quality, we provide our clients with the best experience on their trip through a personalized service.",
+        "description": "Our Group Transportation service in Cancun is the ideal choice for moving from the airport. With a capacity for up to 15 passengers and an affordable price, you can enjoy a comfortable and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nWithout a doubt, our group transportation service from Cancun is the most popular choice for Cancun Airport Group Transfers. Group transportation is available all day long, no need to share the vehicle with strangers or make unnecessary stops on the way to your hotel.\n\nCancun Airport Shuttle by Go Transfers offers a safe and affordable service, with airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With more than 10 years of experience offering group transfers in Cancun with the highest quality, we provide our clients with the best experience on their trip through a personalized service.",
         "table": {
           "title": "Transfers for groups in Cancun - Prices",
           "headers": {
@@ -1285,60 +1291,60 @@
       }
     },
     "playa": {
-      "title": "Transportation from cancun airport to playa del carmen - Cancun Airport Transportation",
-      "description": "Transportation from Cancun Airport to Playa del Carmen. Best way to get to Playa del Carmen. Cheap transportation to any hotel in Playa del Carmen",
-      "keywords": "playa del carmen transportation, cancun to playa del carmen, shuttle playa del carmen, airport transfer playa",
+      "title": "Cancun Airport to Playa del Carmen Shuttle",
+      "description": "Book your Cancun Airport to Playa del Carmen Shuttle. Reliable and comfortable transportation service. Best rates for your trip to Playa del Carmen.",
+      "keywords": "cancun airport to playa del carmen shuttle, cancun to playa del carmen shuttle, playa del carmen transportation, airport transfer playa",
       "destinations": {
-        "title": "Transfers to and from Playa del Carmen",
-        "text": "We offer the most complete transportation service to any hotel or destination in Playa del Carmen or vice versa, from any destination in the Riviera Maya or Airport, we provide a full service ready to take you to your hotel or favorite attraction in Playa del Carmen.",
+        "title": "The most efficient shuttle from Cancun to Playa del Carmen and other destinations",
+        "text": "We provide the most comprehensive transportation service to any hotel or destination in Playa del Carmen and beyond. Whether you're traveling from any location in the Riviera Maya or the airport, our full-service transportation is ready to take you to your hotel or favorite attraction in Playa del Carmen.",
         "viewMore": "View more destinations",
         "viewMoreLink": "/destinations",
         "cards": {
           "tulum": {
             "title": "Transportation to Tulum",
-            "description": "Enjoy a safe, fast, and reliable transfer service to Akumal. The estimated transfer time from Cancun to Akumal is 1 hour and 40 minutes.",
+            "description": "Enjoy a safe, fast, and reliable transfer service to Tulum. The estimated transfer time from Cancun to Tulum is 1 hour and 40 minutes.",
             "ctaText": "Book now",
             "link": "/cancun-to-tulum-shuttle"
           },
           "playa": {
             "title": "Transportation to Playa del Carmen",
-            "description": "Enjoy a safe, fast, and reliable transfer service to Playa del Carmen. The estimated transfer time from Cancun is 55 minutes.",
+            "description": "Experience a safe, fast, and reliable transfer service to Playa del Carmen. The estimated transfer time from Cancun is 55 minutes.",
             "ctaText": "Book now",
-            "link": "/transportation-from-cancun-airport-to-playa-del-carmen"
+            "link": "/shuttle-from-cancun-to-playa-del-carmen"
           },
           "cancun": {
             "title": "Transportation to Cancun",
-            "description": "Enjoy a safe, fast, and reliable transfer service to the Hotel Zone. The estimated transfer time from the Airport to the Hotel Zone is 30 minutes.",
+            "description": "Benefit from a safe, fast, and reliable transfer service to the Hotel Zone. The estimated transfer time from the airport to the Hotel Zone is 30 minutes.",
             "ctaText": "Book now",
             "link": "/"
           }
         }
       },
       "bannerCta": {
-        "title": "Transportation from Cancun to Playa del Carmen by Cancun Airport Transportation",
+        "title": "Transportation from Cancun to Playa del Carmen by Cancun Airport Shuttle",
         "text": "Playa del Carmen, a renowned beach destination globally, is located just south of Cancun along the stunning Mexican Caribbean coast. This charming town features an array of accommodations, including boutique hotels, luxurious resorts, and cozy Airbnbs, all set amidst beautiful beaches, lush jungles, superb dining, and excellent shopping opportunities.\n\nWhether traveling with family or solo, Playa del Carmen offers a wealth of attractions. For seamless transportation from Cancun, opt for Cancun Airport Shuttle Services. Our friendly greeters and professional drivers provide exceptional service and attention when you arrive.\n\nThe drive from Cancun to Playa del Carmen typically takes between 60 to 90 minutes.\n\nWhether you’re planning a romantic escape or a family holiday, Playa del Carmen is an ideal destination. If you’re wondering how to get from Cancun Airport to Playa del Carmen, choose Cancun Airport Shuttle for the most reliable and budget-friendly shuttle service. Travel with ease and comfort, knowing you’re in capable hands."
       },
       "testimonials": {
-        "title": "Our clients reviews - Cancun to Playa del Carmen",
-        "description": "Discover why our customers choose Cancun Airport Transportation by Go",
+        "title": "Comments from our customers",
+        "description": "Discover why our customers choose us.",
         "items": {
           "item1": {
             "name": "John P.",
-            "text": "Excellent service! From the moment I arrived at the Cancun airport, everything was very easy and fast. The driver was very friendly and professional.",
+            "text": "Few companies offer a customized service, so we contracted with them for a service from Playa del Carmen to Cancun Airport. The pick-up was 5 minutes before and they waited for us at the hotel exit for the return to the hotel, the service was excellent and the driver was very attentive.",
             "imageAlt": "Comment from our customer John P.",
             "imageTitle": "Comment from our customer John P.",
             "stars": "5"
           },
           "item2": {
             "name": "Ana G.",
-            "text": "I booked the transportation service with Go Transfers for my trip to Playa del Carmen and I couldn't be happier.",
+            "text": "Very good service from the Cancun Airport Shuttle. Friendly and punctual staff. Thanks to Manuel for making our trip to the airport from Playa del Carmen very enjoyable. We will repeat.",
             "imageAlt": "Comment from our customer Ana G.",
             "imageTitle": "Comment from our customer Ana G.",
             "stars": "5"
           },
           "item3": {
             "name": "Carlos R.",
-            "text": "My experience with Go Transfers was excellent. The booking process was very easy and the communication was clear and effective.",
+            "text": "We hired him for a round trip to Playa del Carmen. They were waiting for us at the airport to pick up a sign with our name on it. They also arrived 15 minutes early to return to the airport.",
             "imageAlt": "Comment from our customer Carlos R.",
             "imageTitle": "Comment from our customer Carlos R.",
             "stars": "5"
@@ -1346,37 +1352,40 @@
         }
       },
       "safeTrip": {
-        "title": "Transportation from Cancun to Playa del Carmen, safe and reliable",
-        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Transportation by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
+        "title": "Transportation from Cancun to Playa del Carmen by Cancun Airport Shuttle",
+        "imageAlt": "Cancun Airport Shuttle by Go Transfers",
+        "description": "Playa del Carmen, a beloved beach destination worldwide, sits just south of Cancun on the picturesque Mexican Caribbean coast. It offers a delightful mix of small boutique hotels, opulent resorts, and cozy Airbnbs, set against a backdrop of stunning beaches, dense jungles, top-notch dining, and excellent shopping options.\n\nIdeal for families and solo travelers alike, Playa del Carmen welcomes visitors with various attractions. For hassle-free transportation from Cancun, consider using Cancun Airport Shuttle Services. From the moment you land, our friendly greeters and professional drivers ensure top-quality service and attention.\n\nThe journey from Cancun to your accommodation in Playa del Carmen typically ranges from 60 to 90 minutes. Whether you're planning a romantic getaway or a family vacation, Playa del Carmen is the perfect choice. Wondering how to travel from Cancun Airport to Playa del Carmen? Choose Cancun Airport Shuttle for the most affordable and dependable shuttle service. Travel with confidence and comfort, knowing that you are in good hands."
       },
       "reliableService": {
-        "title": "Transportation from Cancun to Playa del Carmen, safe and reliable",
-        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Transportation by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
+        "title": "Transportation from Cancun to Playa del Carmen by Cancun Airport Shuttle",
+        "imageAlt": "Cancun Airport Shuttle by Go Transfers",
+        "description": "Playa del Carmen, a beloved beach destination worldwide, sits just south of Cancun on the picturesque Mexican Caribbean coast. It offers a delightful mix of small boutique hotels, opulent resorts, and cozy Airbnbs, set against a backdrop of stunning beaches, dense jungles, top-notch dining, and excellent shopping options.\n\nIdeal for families and solo travelers alike, Playa del Carmen welcomes visitors with various attractions. For hassle-free transportation from Cancun, consider using Cancun Airport Shuttle Services. From the moment you land, our friendly greeters and professional drivers ensure top-quality service and attention.\n\nThe journey from Cancun to your accommodation in Playa del Carmen typically ranges from 60 to 90 minutes. Whether you're planning a romantic getaway or a family vacation, Playa del Carmen is the perfect choice. Wondering how to travel from Cancun Airport to Playa del Carmen? Choose Cancun Airport Shuttle for the most affordable and dependable shuttle service. Travel with confidence and comfort, knowing that you are in good hands."
       },
       "pricing": {
-        "title": "Transportation Services to and from Playa del Carmen",
+        "title": "Shuttle services of Transportation from Cancun Airport to Playa del Carmen",
         "subtitle": "List of our transportation services",
         "cards": {
           "luxury": {
-            "title": "Cancun to Playa del Carmen Luxury Transportation",
-            "description": "Elevate your transportation experience between Cancun Airport to Playa del Carmen with our luxury transportation service. Designed for 1 to 5 passengers, enjoy the comfort and luxury of a Suburban or similar vehicle."
+            "title": "Cancun to Playa del Carmen Luxury Shuttle",
+            "description": "Take your shuttle experience to another level from and to the Cancun Airport to Playa del Carmen with our luxury transfer service. A service for 1 to 5 passengers in a Suburban or similar unit."
           },
           "private": {
-            "title": "Private Transportation from Cancun to Playa del Carmen",
-            "description": "Our transportation service from Cancun Airport to Playa del Carmen is the most popular and affordable option in the Riviera Maya. We offer spacious, air-conditioned, safe, and clean vehicles that accommodate groups ranging from 1 to 8 people."
+            "title": "Cancun to Playa del Carmen Private Shuttle",
+            "description": "Our shuttle and private transportation service from Cancun Airport to Playa del Carmen is one of the most requested and economical in the Riviera Maya. A service with a capacity from 1 to 8 people in a spacious, air-conditioned, safe, and clean unit."
           },
           "group": {
-            "title": "Cancun to Playa del Carmen Group Transportation",
-            "description": "Traveling with a group of more than 8 passengers? Save money and book our group transportation service, accommodating up to 16 passengers. Enjoy a comfortable and safe journey in our spacious vehicles."
+            "title": "Cancun to Playa del Carmen Group Shuttle",
+            "description": "Are you traveling with a group of more than 8 passengers? Then do not pay more and book with us our shuttle from Cancun Airport to Playa del Carmen for groups, a service with the capacity to carry up to 16 passengers and all traveling comfortably and safely in our units."
           }
         }
       },
       "howToMove": {
         "title": "How to move to Playa del Carmen from Cancun?",
-        "content": "Cancun Airport Transportation by Go Transfers is your trusted choice for safe and comfortable travel to Playa del Carmen and other key locations along the Riviera Maya. With over ten years of experience, we specialize in private transfers directly from Cancun Airport to Playa del Carmen, offering convenient direct hotel pickups and drop-offs in our modern, air-conditioned vehicles.\n\nPlaya del Carmen, located just 45 minutes south of Cancun, features a vibrant European atmosphere and a dynamic entertainment scene. Renowned for its stunning Caribbean beaches, the city also hosts lively parties and chic beach clubs that keep the excitement going until the early hours.\n\nUpon arriving at Cancun Airport, you have several travel options to Playa del Carmen, including the ADO bus, taxi services, car rentals, or our private shuttle. For those seeking the most economical and reliable shuttle service, we offer competitive rates to Playa del Carmen, as well as other popular destinations like the Cancun Hotel Zone, Akumal, Puerto Morelos, and throughout the Riviera Maya.\n\nOur commitment to excellence ensures that Cancun Airport Transportation to Playa del Carmen is available 24/7, with real-time flight monitoring to minimize wait times and avoid any additional fees due to flight delays.\n\nEffective communication is key to our service. Our customer support team and drivers are fully bilingual, eliminating any potential language barriers during your transfers from Cancun to Playa del Carmen. When you reserve your shuttle with us, our team manages every aspect of your journey to guarantee a seamless, secure, and enjoyable travel experience for you and your group."
+        "imageAlt": "Our happy customers",
+        "content": "Cancun Airport Shuttle by Go Transfers is your trusted choice for safe and comfortable travel to Playa del Carmen and other key locations along the Riviera Maya. With over ten years of experience, we specialize in private transfers directly from Cancun Airport to Playa del Carmen, offering convenient direct hotel pickups and drop-offs in our modern, air-conditioned vehicles.\n\nPlaya del Carmen, located just 45 minutes south of Cancun, features a vibrant European atmosphere and a dynamic entertainment scene. Renowned for its stunning Caribbean beaches, the city also hosts lively parties and chic beach clubs that keep the excitement going until the early hours.\n\nUpon arriving at Cancun Airport, you have several travel options to Playa del Carmen, including the ADO bus, taxi services, car rentals, or our private shuttle. For those seeking the most economical and reliable shuttle service, we offer competitive rates to Playa del Carmen, as well as other popular destinations like the Cancun Hotel Zone, Akumal, Puerto Morelos, and throughout the Riviera Maya.\n\nOur commitment to excellence ensures that Cancun Airport Shuttle to Playa del Carmen is available 24/7, with real-time flight monitoring to minimize wait times and avoid any additional fees due to flight delays.\n\nEffective communication is key to our service. Our customer support team and drivers are fully bilingual, eliminating any potential language barriers during your transfers from Cancun to Playa del Carmen. When you reserve your shuttle with us, our team manages every aspect of your journey to guarantee a seamless, secure, and enjoyable travel experience for you and your group."
       },
       "faq": {
-        "title": "Cancun to Playa del Carmen Transportation - Faqs",
+        "title": "Cancun to Playa del Carmen - Faqs",
         "items": {
           "cost": {
             "question": "How much is Transportation from Cancun to Playa del Carmen?",
@@ -1412,7 +1421,7 @@
           },
           "otherDestinations": {
             "question": "What other destinations can I book for my shuttle service?",
-            "answer": "We have several locations where you can find us, you can reach the most popular destination in Quintana Roo with us: Cancun Airport Transportation, Cancun to Tulum Shuttle."
+            "answer": "We have several locations where you can find us, you can reach the most popular destination in Quintana Roo with us: Cancun Airport Shuttle, Cancun to Tulum Shuttle."
           }
         }
       },
@@ -1422,19 +1431,19 @@
         "items": {
           "airportToHotel": {
             "title": "Airport to Hotel",
-            "text": "You have come to enjoy the Caribbean and surely you need transportation to your Hotel or Airport, this service is ideal for you."
+            "text": "Here to enjoy the Caribbean? You’ll need reliable transportation to your hotel or the airport. This service is perfect for you."
           },
           "hotelToHotel": {
             "title": "Hotel to Hotel",
-            "text": "Need to change from one hotel to another while in Cancun? We help you with this transportation from hotel to hotel."
+            "text": "Switching hotels during your stay in Cancun? We’ve got you covered with our convenient hotel-to-hotel transportation service."
           },
           "hotelToRestaurant": {
             "title": "Hotel to Restaurant",
-            "text": "When you relax on your vacation, probably the least you want to do is drive, and even more, if you plan to drink! We can take you to your restaurant and return to your hotel."
+            "text": "On vacation, the last thing you want to worry about is driving, especially if you plan to indulge. Let us take you to your restaurant and bring you back to your hotel safely."
           },
           "hotelToPark": {
             "title": "Hotel to Park",
-            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Transportation we can take you to any of these parks."
+            "text": "Planning a visit to Xcaret, Xel-Ha, Xoximilco, or the Mayan Museum in Cancun? We provide transportation to any of these exciting parks."
           }
         }
       },
@@ -1475,7 +1484,7 @@
             "title": "Transportation to Playa del Carmen",
             "description": "Enjoy a safe, fast, and reliable transfer service to Playa del Carmen. The estimated transfer time from Cancun is 55 minutes.",
             "ctaText": "Book now",
-            "link": "/transportation-from-cancun-airport-to-playa-del-carmen"
+            "link": "/shuttle-from-cancun-to-playa-del-carmen"
           },
           "cancun": {
             "title": "Transportation to Cancun",
@@ -1518,12 +1527,12 @@
       },
       "safeTrip": {
         "title": "The Safest and Most Reliable Transportation Service from Cancun to Akumal",
-        "description": "We are an honest and trustworthy company, 100% focused on customer satisfaction. We aim to provide each traveler who uses our services with an unparalleled experience during their transfer from Cancun to Akumal.\n\nIn <a title=\"Cancun Airport Transportation\" href=\"https://cancunsairporttransportation.com/\">Cancun Airport Transportation</a> by Go Transfers Every customer is special to us, and we understand that each has different travel needs. That's why we always have an option that fits any budget and travel requirements. Don't hesitate to request a quote or speak with an agent to find the perfect service for you.\n\nOur agents are always available to answer your questions and assist you with booking your transfer service. Book Now with a fixed price and guaranteed availability.",
-        "imageAlt": "Cancun Airport Transportation by Go Transfers"
+        "description": "We are an honest and trustworthy company, 100% focused on customer satisfaction. We aim to provide each traveler who uses our services with an unparalleled experience during their transfer from Cancun to Akumal.\n\nIn <a title=\"Cancun Airport Shuttle\" href=\"https://cunairportshuttle.com/\">Cancun Airport Shuttle</a> by Go Transfers Every customer is special to us, and we understand that each has different travel needs. That's why we always have an option that fits any budget and travel requirements. Don't hesitate to request a quote or speak with an agent to find the perfect service for you.\n\nOur agents are always available to answer your questions and assist you with booking your transfer service. Book Now with a fixed price and guaranteed availability.",
+        "imageAlt": "Cancun Airport Shuttle by Go Transfers"
       },
       "reliableService": {
         "title": "Transportation from Cancun to Playa del Carmen, safe and reliable",
-        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Transportation by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
+        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Shuttle by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
       },
       "pricing": {
         "title": "Transportation Services from Cancun to Akumal We Offer",
@@ -1606,7 +1615,7 @@
           },
           "hotelToPark": {
             "title": "Hotel to Park",
-            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Transportation we can take you to any of these parks."
+            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Shuttle we can take you to any of these parks."
           }
         }
       },
@@ -1628,12 +1637,15 @@
       }
     },
     "tulum": {
-      "title": "Cancun to Tulum Shuttle with 10% OFF | Shuttle from Cancun to Tulum",
-      "description": "Shuttle from Cancun to Tulum from 129 USD per vehicle. Cancun to Tulum Shuttle and transportation options: private, luxury, and group",
+      "title": "Cancun to Tulum Shuttle",
+      "description": "Tulum is situated approximately 130 km (80 mi) south of Cancun Airport, a journey that typically takes around 2 hours. Renowned for its stunning Mayan ruins, Tulum attracts those seeking an extraordinary vacation far from bustling city life. For your transfer from Cancun Airport to Tulum, consider our service.",
       "keywords": "cancun to tulum shuttle, tulum transportation, shuttle tulum, tulum airport transfer",
+      "ratesTable": {
+        "title": "Shuttle from cancun to tulum zone rates"
+      },
       "destinations": {
-        "title": "Shuttle from Cancun to Tulum",
-        "text": "We offer the most complete transportation service to any hotel or destination in Tulum or vice versa, from any destination in the Riviera Maya or Airport. We provide a full service ready to take you to your hotel or favorite attraction in Tulum.",
+        "title": "The most efficient shuttle from Cancun to Tulum and other destinations",
+        "text": "We offer the most comprehensive transportation service to any hotel or destination in Tulum and beyond. Whether you're traveling from any location in the Riviera Maya or the airport, our full-service transportation is ready to take you to your hotel or favorite attraction in Tulum..",
         "viewMore": "View more destinations",
         "viewMoreLink": "/destinations",
         "cards": {
@@ -1641,98 +1653,106 @@
             "title": "Transportation to Tulum",
             "description": "Enjoy a safe, fast, and reliable transfer service to Tulum. The estimated transfer time from Cancun to Tulum is 1 hour and 40 minutes.",
             "ctaText": "Book now",
-            "link": "/cancun-to-tulum-shuttle"
+            "link": "/cancun-to-tulum-shuttle",
+            "imageAlt": "Cancun Airport Shuttle to Tulum",
+            "imageTitle": "Cancun Airport Shuttle to Tulum"
           },
           "playa": {
             "title": "Transportation to Playa del Carmen",
-            "description": "Enjoy a safe, fast, and reliable transfer service to Playa del Carmen. The estimated transfer time from Cancun is 55 minutes.",
+            "description": "Experience a safe, fast, and reliable transfer service to Playa del Carmen. The estimated transfer time from Cancun is 55 minutes.",
             "ctaText": "Book now",
-            "link": "/transportation-from-cancun-airport-to-playa-del-carmen"
+            "link": "/shuttle-from-cancun-to-playa-del-carmen",
+            "imageAlt": "website.home.destination",
+            "imageTitle": "website.home.destination"
           },
           "cancun": {
             "title": "Transportation to Cancun",
-            "description": "Enjoy a safe, fast, and reliable transfer service to the Hotel Zone. The estimated transfer time from the Airport to the Hotel Zone is 30 minutes.",
+            "description": "Benefit from a safe, fast, and reliable transfer service to the Hotel Zone. The estimated transfer time from the airport to the Hotel Zone is 30 minutes.",
             "ctaText": "Book now",
-            "link": "/"
+            "link": "/",
+            "imageAlt": "website.home.destination",
+            "imageTitle": "website.home.destination"
           }
         }
       },
       "bannerCta": {
-        "title": "Transportation from Cancun Airport to Tulum",
-        "text": "Tulum is located approximately 130 km (80 mi) south of Cancun Airport, a journey that typically takes around 2 hours. Known for its breathtaking Mayan ruins, Tulum is the perfect destination for those seeking an extraordinary vacation away from the hustle and bustle of city life. For your transportation from Cancun to Tulum, consider our service: Our Cancun Airport Transportation to Tulum is the most cost-effective option for transportation from Cancun Airport to Tulum.\n\nSit back, relax, and enjoy a secure and comfortable ride to Tulum in one of our reliable shuttle vans. With over a decade of experience, we specialize in providing top-notch airport transportation services to hotels in both Cancun and Tulum.\n\nExperience our Shuttle from Cancun to Tulum service at an incredible rate! Travel in luxury and style in one of our pristine Full-size SUV vehicles—the perfect way to start your vacation in the Mexican Caribbean.\n\nReserve your deluxe Tulum transportation from Cancun today!\n\nWe are proud to offer the most affordable shuttle transportation in Cancun and Tulum, with experienced drivers dedicated to ensuring safe and efficient travel to your hotel."
+        "title": "Cancun Airport Shuttle, the favorite company in Tulum",
+        "text": "Enjoy dependable transportation from Cancun to Tulum, primed to whisk you away to your desired destination within Cancun and the Riviera Maya. Whether it's a hotel, resort, airport, theme park, or archaeological site, if it's on the map, consider it taken care of by our reliable team.\n\nOur vehicles are equipped to ensure your comfort, while our skilled drivers boast both expertise and a service-oriented mindset.\n\nAs a licensed shuttle company, we hold all the necessary permits to operate seamlessly within the airport premises."
       },
       "testimonials": {
         "title": "Comments from our customers",
         "description": "Discover why our customers choose us",
         "items": {
           "item1": {
-            "name": "Marco L.",
-            "text": "I hired the transportation service to go from Cancun to Tulum and was impressed with the punctuality and professionalism of the driver.",
-            "imageAlt": "Comment from our customer Marco L.",
-            "imageTitle": "Comment from our customer Marco L.",
+            "name": "Juan P.",
+            "text": "I was delighted with the punctuality and comfort of the transportation service provided by Cancun Airport Shuttle on my recent trip to Tulum. I especially liked the friendliness of the driver and the ease of the booking process.",
+            "imageAlt": "Comment from our customer Juan P.",
+            "imageTitle": "Comment from our customer Juan P.",
             "stars": "5"
           },
           "item2": {
-            "name": "Sarah J.",
-            "text": "Our transfer from Cancun airport to our hotel in Tulum was perfect. The driver was amiable and gave us excellent recommendations on places to visit.",
-            "imageAlt": "Comment from our customer Sarah J.",
-            "imageTitle": "Comment from our customer Sarah J.",
+            "name": "Ana G.",
+            "text": "I appreciated the efficiency and professionalism of the Cancun Airport Shuttle service during the transfer to Tulum. The vehicle was impeccably clean and the trip was very pleasant, thanks to the excellent customer service.",
+            "imageAlt": "Comment from our customer Ana G.",
+            "imageTitle": "Comment from our customer Ana G.",
             "stars": "5"
           },
           "item3": {
-            "name": "David B.",
-            "text": "I used this service for a day trip to Tulum and everything was wonderful. The driver was on time, the vehicle was very comfortable and clean, and the trip was very safe.",
-            "imageAlt": "Comment from our customer David B.",
-            "imageTitle": "Comment from our customer David B.",
+            "name": "Carlos R.",
+            "text": "I enjoyed an exceptionally comfortable trip to Tulum with the Cancun Airport Shuttle. I highlight the punctuality of the service and the kindness of the driver, who also shared valuable tips on places to visit in the area.",
+            "imageAlt": "Comment from our customer Carlos R.",
+            "imageTitle": "Comment from our customer Carlos R.",
             "stars": "5"
           }
         }
       },
       "safeTrip": {
-        "title": "Safe and reliable transportation from Cancun to Tulum",
-        "description": "Enjoy reliable transportation from Cancun to Tulum, ready to take you to your desired destination within Cancun and the Riviera Maya. Whether it is a hotel, resort, airport, theme park or archaeological site, if it is on the map, our reliable team has you covered.",
-        "imageAlt": "Cancun Airport Transportation by Go Transfers"
+        "title": "Transportation from Cancun to Tulum",
+        "description": "Tulum is situated approximately 130 km (80 mi) south of Cancun Airport, a journey that typically takes around 2 hours. Renowned for its stunning Mayan ruins, Tulum attracts those seeking an extraordinary vacation far from bustling city life. For your transfer from Cancun Airport to Tulum, consider our service:\n\nOur Cancun Airport Shuttle is the most cost-effective option for transportation from Cancun Airport to Tulum. Sit back, relax, and enjoy a secure and comfortable ride to Tulum aboard one of our dependable shuttle vans. With over a decade of experience, Cancun Airport Shuttle specializes in providing top-notch airport transportation services to hotels in both Cancun and Tulum.\n\nExperience our Shuttle from Cancun to Tulum service at an incredible rate! Travel in luxury and style in one of our immaculate Full-size SUV vehicles—the perfect way to kick off your vacation in the Mexican Caribbean. Reserve your deluxe Tulum transportation from Cancun today!.\n\nWe are proud to offer the most affordable shuttle transportation in Cancun & Tulum, with seasoned drivers dedicated to ensuring safe and efficient travel to your hotel.",
+        "imageAlt": "Cancun Airport Shuttle by Go Transfers"
       },
       "reliableService": {
-        "title": "Transportation from Cancun to Playa del Carmen, safe and reliable",
-        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Transportation by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
+        "title": "Transportation from Cancun to Tulum",
+        "description": "Tulum is situated approximately 130 km (80 mi) south of Cancun Airport, a journey that typically takes around 2 hours. Renowned for its stunning Mayan ruins, Tulum attracts those seeking an extraordinary vacation far from bustling city life. For your transfer from Cancun Airport to Tulum, consider our service:\n\nOur Cancun Airport Shuttle is the most cost-effective option for transportation from Cancun Airport to Tulum. Sit back, relax, and enjoy a secure and comfortable ride to Tulum aboard one of our dependable shuttle vans. With over a decade of experience, Cancun Airport Shuttle specializes in providing top-notch airport transportation services to hotels in both Cancun and Tulum.\n\nExperience our Shuttle from Cancun to Tulum service at an incredible rate! Travel in luxury and style in one of our immaculate Full-size SUV vehicles—the perfect way to kick off your vacation in the Mexican Caribbean. Reserve your deluxe Tulum transportation from Cancun today!.\n\nWe are proud to offer the most affordable shuttle transportation in Cancun & Tulum, with seasoned drivers dedicated to ensuring safe and efficient travel to your hotel."
       },
       "pricing": {
-        "title": "Round Trip Transportation to Tulum",
+        "title": "Shuttle services of Transportation from Cancun Airport to Tulum",
         "subtitle": "List of our transportation services",
         "cards": {
           "luxury": {
-            "title": "Luxury Transportation from Cancun to Tulum",
-            "description": "Enhance your travel experience with our luxury transfer service from Cancun Airport to Tulum. Ideal for 1 to 5 passengers, this service offers premium comfort in a Suburban or similar vehicle."
+            "title": "Cancun to Tulum Luxury Shuttle",
+            "description": "Take your shuttle experience to another level from and to the Cancun Airport to Tulum with our luxury transfer service. A service for 1 to 5 passengers in a Suburban or similar unit."
           },
           "private": {
-            "title": "Private Transportation from Cancun to Tulum",
-            "description": "Our private transportation service from Cancun Airport to Tulum is one of the most popular and affordable options in the Riviera Maya. This service accommodates 1 to 8 people in a spacious, air-conditioned, safe, and clean vehicle."
+            "title": "Cancun to Tulum Private Shuttle",
+            "description": "Our shuttle and private transportation service from Cancun Airport to Tulum is one of the most popular and economical in the Riviera Maya. A service with a capacity from 1 to 8 people in a spacious, air-conditioned, safe, and clean unit."
           },
           "group": {
-            "title": "Group Transportation from Cancun to Tulum",
-            "description": "Traveling with a group of more than 8 passengers? Save money and book our group transportation service from Cancun Airport to Tulum. This service can accommodate up to 16 passengers, ensuring everyone travels comfortably and safely."
+            "title": "Cancun to Tulum Group Shuttle",
+            "description": "Are you traveling with a group of more than 8 passengers? Then do not pay more and book with us our shuttle from Cancun Airport to Tulum for groups, a service with the capacity to carry up to 16 passengers and all traveling comfortably and safely in our units."
           }
         }
       },
       "howToMove": {
-        "title": "How to get from Cancun Airport to Tulum?",
-        "content": "- **Car Rental:** Renting a car at Cancun Airport gives you the flexibility to travel at your own pace.\n- **Bus:** ADO buses run frequently from Cancun to Tulum and are an economical option.\n- **Private Transportation:** Booking our private transportation is a convenient option, especially for groups or families. Private transportation can be arranged in advance and will take you directly from Cancun Airport to your hotel in Tulum. With Cancun Airport Transportation by Go, you can get the best transportation option from Cancun to Tulum."
+        "title": "How to Reach Tulum from Cancun?",
+        "imageAlt": "Our happy customers",
+        "content": "Reaching Tulum from Cancun is quite straightforward and can be done by various modes of transportation depending on your preferences and budget. Here are some common ways to get to Tulum from Cancun:\n\n- **Car Rental:** Renting a car at Cancun Airport gives you the flexibility to travel at your own pace.\n- **Bus:** ADO buses frequently run from Cancun to Tulum and are a budget-friendly option.\n- **Private Shuttle:** Booking a private shuttle is a convenient option, especially for groups or families. Private shuttles can be arranged in advance and will take you directly from Cancun Airport to your hotel in Tulum. With the Cancun Airport Shuttle you can get the best Cancun to Tulum Transportation.\n- **Taxi or Transfer Service:** You can also hire a taxi or book a transfer service.\n- **Shared Shuttle:** Shared shuttles are a more economical alternative to private shuttles and still offer the convenience of a door-to-door service. They might make a few stops along the way to drop off other passengers."
       },
       "faq": {
         "title": "Cancun to Tulum - Faqs",
+        "description": "We help you to clear your doubts about our transportation services",
         "items": {
           "safe": {
-            "question": "Is the Transportation from Cancun Airport to Tulum Safe?",
-            "answer": "Yes, the transportation service from Cancun to Tulum is generally considered safe. Providers often prioritize safety, with experienced drivers and well-maintained vehicles."
+            "question": "Is the Cancun to Tulum Shuttle safe? ",
+            "answer": "Yes, the shuttle service from Cancun to Tulum is generally considered safe. Providers often prioritize safety, with experienced drivers and well-maintained vehicles."
           },
           "include": {
-            "question": "What Does My Transportation from Cancun Airport to Tulum Include?",
+            "question": "What does my transportation from Cancun Airport to Tulum include?",
             "answer": "Transportation from Cancun Airport to Tulum typically includes a direct transfer by car, van, or bus, depending on the service you choose. It often includes amenities like air conditioning, professional drivers, and sometimes Wi-Fi and water."
           },
           "visit": {
-            "question": "What Can I Visit When I Book the Shuttle in Tulum?",
-            "answer": "When in Tulum, you can visit the Tulum Ruins, beautiful beaches like Playa Paraíso, cenotes such as Gran Cenote, and the Sian Ka’an Biosphere Reserve."
+            "question": "What can I visit when I book the shuttle in Tulum? ",
+            "answer": "When in Tulum, you can visit the Tulum Ruins, beautiful beaches like Playa Paraíso, cenotes such as Gran Cenote, and the Sian Ka'an Biosphere Reserve."
           },
           "duration": {
             "question": "How Long is the Shuttle from Cancun Airport to Tulum?",
@@ -1756,11 +1776,11 @@
           },
           "cheapest": {
             "question": "What is the Cheapest Airport Shuttle from Cancun to Tulum?",
-            "answer": "The cheapest shuttle from Cancun Airport to Tulum is our service: {pricePrivateOw} per vehicle."
+            "answer": "The cheapest shuttle from Cancun Airport to Tulum is our service: $129 USD per vehicle."
           },
           "otherDestinations": {
             "question": "What Other Destinations Can I Book for My Shuttle Service?",
-            "answer": "You can book shuttle services to various destinations like <a href=\"/\" title=\"Cancun Airport Transportation\">Cancun Airport Transportation</a> and <a href=\"/transportation-from-cancun-airport-to-playa-del-carmen\" title=\"Transportation from Cancun Airport to Playa del Carmen\">Transportation from Cancun Airport to Playa del Carmen</a>."
+            "answer": "You can book shuttle services to various destinations like <a href=\"/\" title=\"Cancun Airport Shuttle\">Cancun Airport Shuttle</a> and <a href=\"/shuttle-from-cancun-to-playa-del-carmen\" title=\"Transportation from Cancun Airport to Playa del Carmen\">Transportation from Cancun Airport to Playa del Carmen</a>."
           }
         }
       },
@@ -1782,12 +1802,12 @@
           },
           "hotelToPark": {
             "title": "Hotel to Park",
-            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Transportation we can take you to any of these parks."
+            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Shuttle we can take you to any of these parks."
           }
         }
       },
       "popularHotels": {
-        "title": "Most popular hotels in Tulum",
+        "title": "Transfer to the most popular hotels in Tulum",
         "viewMore": "View More Hotels",
         "viewMoreTitle": "View More Hotels",
         "viewMoreLink": "/destinations",
@@ -1804,7 +1824,7 @@
       }
     },
     "merida": {
-      "title": "Transportation from Cancun Airport to Merida - Cancun Airport Transportation",
+      "title": "Transportation from Cancun Airport to Merida - Cancun Airport Shuttle",
       "description": "Transportation from Cancun Airport to Merida. Best way to get to Merida. Cheap transportation to any hotel or destination in Merida",
       "keywords": "cancun to merida transportation, merida shuttle, cancun airport to merida, yucatan transportation",
       "ratesTable": {
@@ -1830,7 +1850,7 @@
             "title": "Transportation to Playa del Carmen from Cancun",
             "description": "Enjoy a safe, fast, and reliable transfer service to Playa del Carmen. The estimated transfer time from Cancun is 55 minutes.",
             "ctaText": "Book now",
-            "link": "/transportation-from-cancun-airport-to-playa-del-carmen"
+            "link": "/shuttle-from-cancun-to-playa-del-carmen"
           },
           "cancun": {
             "title": "Transportation to Cancun Hotel Zone from Cancun",
@@ -1841,30 +1861,30 @@
         }
       },
       "bannerCta": {
-        "title": "Transportation from Cancun to Merida by Cancun Airport Transportation",
+        "title": "Transportation from Cancun to Merida by Cancun Airport Shuttle",
         "text": "Merida, the vibrant capital of Yucatán, is a city steeped in history, culture, and charm. Known as the \"White City,\" Merida is celebrated for its stunning colonial architecture, colorful markets, and rich Mayan heritage.\n\nThis captivating destination offers a mix of boutique hotels, luxurious haciendas, and cozy accommodations, all surrounded by picturesque streets, world-class cuisine, and unique shopping experiences.\n\nThe drive from Cancun to Merida typically takes around 3 hours, offering a scenic journey through the Yucatán Peninsula.\n\nWhether you're planning a cultural adventure or a relaxing getaway, Merida is the perfect destination. If you're wondering how to get from Cancun Airport to Merida, trust Cancun Airport Shuttle for the most reliable and affordable shuttle service. Travel in comfort and style as we take you directly to your destination in Merida."
       },
       "testimonials": {
         "title": "Our client reviews - Cancun to Merida",
-        "description": "Discover why our customers choose Cancun Airport Transportation by Go",
+        "description": "Discover why our customers choose Cancun Airport Shuttle by Go",
         "items": {
           "item1": {
             "name": "Emily R.",
-            "text": "I recently used Cancun Airport Transportation's shuttle service from Cancun to Merida, and it was fantastic! The driver was punctual, the vehicle was clean and comfortable, and the entire process was seamless.",
+            "text": "I recently used Cancun Airport Shuttle's shuttle service from Cancun to Merida, and it was fantastic! The driver was punctual, the vehicle was clean and comfortable, and the entire process was seamless.",
             "imageAlt": "Comment from our customer Emily R.",
             "imageTitle": "Comment from our customer Emily R.",
             "stars": "5"
           },
           "item2": {
             "name": "Michael T.",
-            "text": "Booking the Cancun to Merida shuttle with Cancun Airport Transportation was the best decision. The service was reliable, the driver was professional, and the ride was smooth. It made my trip stress-free and enjoyable.",
+            "text": "Booking the Cancun to Merida shuttle with Cancun Airport Shuttle was the best decision. The service was reliable, the driver was professional, and the ride was smooth. It made my trip stress-free and enjoyable.",
             "imageAlt": "Comment from our customer Michael T.",
             "imageTitle": "Comment from our customer Michael T.",
             "stars": "5"
           },
           "item3": {
             "name": "Jessica K.",
-            "text": "I had an amazing experience with Cancun Airport Transportation for my Cancun to Merida transfer. The booking was straightforward, the driver was friendly, and the shuttle was spacious and comfortable. Perfect for a long journey!",
+            "text": "I had an amazing experience with Cancun Airport Shuttle for my Cancun to Merida transfer. The booking was straightforward, the driver was friendly, and the shuttle was spacious and comfortable. Perfect for a long journey!",
             "imageAlt": "Comment from our customer Jessica K.",
             "imageTitle": "Comment from our customer Jessica K.",
             "stars": "5"
@@ -1873,12 +1893,12 @@
       },
       "safeTrip": {
         "title": "Shuttle from Cancun to Mérida, safe and reliable",
-        "description": "With over 10 years of experience offering transportation services from Cancun to Mérida in the safest, most efficient, and dependable manner, Cancun Airport Transportation by Go is the most honest and trustworthy company you can rely on.\n\nOur primary goal is to provide the highest quality transportation services, ensuring a comfortable and secure journey from the airport to any destination in the Yucatán region.\n\nFrom our wide variety of services, you can select the option that best fits your needs, whether a one-way trip or a round trip. Just reach out to our call center, where our friendly team will be delighted to assist you with any additional details or questions you may have.",
-        "imageAlt": "Cancun Airport Transportation by Go Transfers"
+        "description": "With over 10 years of experience offering transportation services from Cancun to Mérida in the safest, most efficient, and dependable manner, Cancun Airport Shuttle by Go is the most honest and trustworthy company you can rely on.\n\nOur primary goal is to provide the highest quality transportation services, ensuring a comfortable and secure journey from the airport to any destination in the Yucatán region.\n\nFrom our wide variety of services, you can select the option that best fits your needs, whether a one-way trip or a round trip. Just reach out to our call center, where our friendly team will be delighted to assist you with any additional details or questions you may have.",
+        "imageAlt": "Cancun Airport Shuttle by Go Transfers"
       },
       "reliableService": {
         "title": "Transportation from Cancun to Playa del Carmen, safe and reliable",
-        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Transportation by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
+        "description": "With more than 10 years of providing transportation services from Cancun to Playa del Carmen in the safest, fastest, and most reliable way, Cancun Airport Shuttle by Go, is the most honest and trustworthy company.\n\nOur primary mission is to deliver the finest transportation services. We ensure a comfortable and secure journey from the airport to any destination in the Riviera Maya.\n\nAmong our diverse range of services, you can choose the one that best suits your needs, whether it's a one-way trip or a round trip. Simply contact our call center, where our friendly staff will be happy to assist you with any additional information you may require."
       },
       "pricing": {
         "title": "Transportation Services to Merida",
@@ -1900,7 +1920,7 @@
       },
       "howToMove": {
         "title": "How to Travel to Merida from Cancun?",
-        "content": "Cancun Airport Transportation by Go Transfers is your trusted choice for safe and comfortable travel to Merida and any other destination in the Yucatán Peninsula. With over a decade of experience, we specialize in private transfers directly from Cancun Airport to Merida, offering convenient door-to-door service in our modern, air-conditioned vehicles.\n\nMerida, located approximately 3 hours west of Cancun, is a city rich in history, culture, and charm. Known as the \"White City,\" Merida boasts stunning colonial architecture, vibrant local markets, and a thriving culinary scene. It’s also the gateway to exploring ancient Mayan ruins, cenotes, and the picturesque towns of the Yucatán region.\n\nUpon arriving at Cancun Airport, you have several options to reach Merida, including the ADO bus, taxi services, car rentals, or our private shuttle. For those seeking the most reliable and stress-free option, we offer competitive rates for transfers to Merida, as well as other popular destinations like Valladolid, Chichen Itza, and throughout the Yucatán Peninsula.\n\nOur commitment to excellence ensures that Cancun Airport Transportation to Merida is available 24/7, with real-time flight monitoring to minimize wait times and avoid any additional fees due to flight delays.\n\nEffective communication is at the heart of our service. Our customer support team and drivers are fully bilingual, ensuring a smooth and hassle-free experience for all passengers. When you book your shuttle with us, we take care of every detail to guarantee a seamless, secure, and enjoyable journey for you and your group."
+        "content": "Cancun Airport Shuttle by Go Transfers is your trusted choice for safe and comfortable travel to Merida and any other destination in the Yucatán Peninsula. With over a decade of experience, we specialize in private transfers directly from Cancun Airport to Merida, offering convenient door-to-door service in our modern, air-conditioned vehicles.\n\nMerida, located approximately 3 hours west of Cancun, is a city rich in history, culture, and charm. Known as the \"White City,\" Merida boasts stunning colonial architecture, vibrant local markets, and a thriving culinary scene. It’s also the gateway to exploring ancient Mayan ruins, cenotes, and the picturesque towns of the Yucatán region.\n\nUpon arriving at Cancun Airport, you have several options to reach Merida, including the ADO bus, taxi services, car rentals, or our private shuttle. For those seeking the most reliable and stress-free option, we offer competitive rates for transfers to Merida, as well as other popular destinations like Valladolid, Chichen Itza, and throughout the Yucatán Peninsula.\n\nOur commitment to excellence ensures that Cancun Airport Shuttle to Merida is available 24/7, with real-time flight monitoring to minimize wait times and avoid any additional fees due to flight delays.\n\nEffective communication is at the heart of our service. Our customer support team and drivers are fully bilingual, ensuring a smooth and hassle-free experience for all passengers. When you book your shuttle with us, we take care of every detail to guarantee a seamless, secure, and enjoyable journey for you and your group."
       },
       "faq": {
         "title": "Cancun to Merida Transportation - FAQs",
@@ -1941,7 +1961,7 @@
           },
           "hotelToPark": {
             "title": "Hotel to Park",
-            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Transportation we can take you to any of these parks."
+            "text": "Are you visiting Xcaret or Xel Ha? Or probably Xoximilco or the Mayan Museum in Cancun. At Cancun Airport Shuttle we can take you to any of these parks."
           }
         }
       },
@@ -1965,7 +1985,7 @@
     "privateAirportTransfer": {
       "privateDetails": {
         "title": "Cancun Private Transportation",
-        "description": "Our Private Transportation service in Cancun is the perfect option for moving from the airport. With a capacity for up to 8 passengers and an affordable price, you can enjoy a comfortable and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nWithout a doubt, our private transportation service from Cancun is the most popular choice for Cancun airport transfers. Private transportation is available all day long, no need to share the vehicle with strangers or make unnecessary stops on the way to your hotel. Cancun Airport Transportation by Go Transfers offers a safe and affordable service, with airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With more than 10 years of experience offering private transfers in Cancun with the highest quality, we provide our clients with the best experience on their trip through a personalized service.",
+        "description": "Our Private Transportation service in Cancun is the perfect option for moving from the airport. With a capacity for up to 8 passengers and an affordable price, you can enjoy a comfortable and safe ride from Cancun International Airport to your hotel, Airbnb, or home in the Hotel Zone of Cancun, Playa del Carmen, Tulum, and the Riviera Maya.\n\nWithout a doubt, our private transportation service from Cancun is the most popular choice for Cancun airport transfers. Private transportation is available all day long, no need to share the vehicle with strangers or make unnecessary stops on the way to your hotel. Cancun Airport Shuttle by Go Transfers offers a safe and affordable service, with airport meet and greet, professional and bilingual drivers, and travel insurance for all passengers. With more than 10 years of experience offering private transfers in Cancun with the highest quality, we provide our clients with the best experience on their trip through a personalized service.",
         "table": {
           "title": "Cancun Airport Private Transportation Prices",
           "headers": {
@@ -1996,30 +2016,30 @@
     },
     "destinations": {
       "tagline": "Reach any corner of the Riviera Maya",
-      "title": "Transportation with Cancun Airport Transportation to the most popular destinations in Riviera Maya",
+      "title": "Cancun Airport Shuttle - Rates for Popular destinations",
       "keywords": "riviera maya destinations, cancun destinations, cancun airport transfers, mexico transportation",
-      "description": "Discover our competitive transportation rates to the most popular destinations in the Riviera Maya, including Cancun, Playa del Carmen, Tulum, Cozumel, Isla Mujeres, and throughout the Riviera Maya",
+      "description": "With years of experience in the tourist transportation industry, we guarantee an exceptional trip. Our professional drivers know every corner of the Riviera Maya, assuring you not only efficient transportation but also a smooth and hassle-free experience.",
       "destinations": {
-        "title": "Cancun Airport Transportation - Rates for Popular destinations",
+        "title": "Cancun Airport Shuttle - Rates for Popular destinations",
         "text": "With years of experience in the tourist transportation industry, we guarantee an exceptional trip. Our professional drivers know every corner of the Riviera Maya, assuring you not only efficient transportation but also a smooth and hassle-free experience.",
         "viewMore": "View more destinations",
         "viewMoreLink": "/destinations",
         "cards": {
           "tulum": {
-            "title": "Cancun Airport Transportation to Tulum",
-            "description": "Tulum, a city located within the Riviera Maya, is approximately a 2-hour drive from Cancun. Renowned for its breathtaking beaches, historic archaeological sites, and amazing jungle hotels, Tulum is a must-visit destination.",
+            "title": "Cancun Airport Shuttle to Tulum",
+            "description": "",
             "ctaText": "Book now",
             "link": "/cancun-to-tulum-shuttle"
           },
           "playa": {
-            "title": "Cancun Airport Transportation to Playa del Carmen",
-            "description": "Our transportation and taxi services will bring you to any hotel, vacation home, or Airbnb in Playa del Carmen, the vibrant heart of the Riviera Maya. With us, your adventure is just around the corner!",
+            "title": "Cancun Airport Shuttle to Playa del Carmen",
+            "description": "",
             "ctaText": "Book now",
-            "link": "/transportation-from-cancun-airport-to-playa-del-carmen"
+            "link": "/shuttle-from-cancun-to-playa-del-carmen"
           },
           "cancun": {
-            "title": "Cancun Airport Transportation to Cancun Hotel Zone",
-            "description": "Cancun’s hotel zone is the city’s top destination, featuring 4 and 5-star hotels that offer the best views of the Caribbean Sea and the most unforgettable vacation experience you can imagine.",
+            "title": "Cancun Airport Shuttle to Cancun Hotel Zone",
+            "description": "",
             "ctaText": "Book now",
             "link": "/"
           }
@@ -2046,20 +2066,20 @@
       },
       "serviceCards": {
         "confidence": {
-          "title": "Travel with Confidence",
-          "text": "Travel with confidence, security and the comfort that only we can offer you.",
+          "title": "Travel with confidence, security and the comfort that only we can offer you.",
+          "text": "",
           "imageAlt": "Pyramid icon representing confidence and security",
           "imageTitle": "Confidence and Security"
         },
         "transportation": {
-          "title": "Transportation Service",
-          "text": "Transportation to your hotel or destination",
+          "title": "Transportation to your hotel or destination",
+          "text": "",
           "imageAlt": "Excursion icon representing transportation service",
           "imageTitle": "Transportation Service"
         },
         "comfort": {
-          "title": "Complete Comfort",
-          "text": "Comfort from the beginning to the end of your trip",
+          "title": "Comfort from the beginning to the end of your trip",
+          "text": "",
           "imageAlt": "Car seat icon representing comfort",
           "imageTitle": "Comfort Throughout Your Journey"
         }
@@ -2086,7 +2106,7 @@
       }
     },
     "blog": {
-      "title": "Cancun Airport Transportation Blog | Travel Tips & News",
+      "title": "Cancun Airport Shuttle Blog | Travel Tips & News",
       "description": "Read the latest news, travel tips, and guides about Cancun, Playa del Carmen, Tulum, and the Riviera Maya from our experts.",
       "keywords": "cancun blog, riviera maya travel tips, tulum guide, playa del carmen news",
       "heading": "Our Blog",

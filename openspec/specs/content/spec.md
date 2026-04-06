@@ -24,7 +24,7 @@ The footer MUST display the correct English content as provided by the stakehold
 - **And** social links for Facebook and Instagram using URLs from `SOCIAL_LINKS.facebook` and `SOCIAL_LINKS.instagram`
 - **And** the "Destinations" column with links:
     - "Cancun Airport Transportation" -> `/`
-    - "Playa del Carmen Transfers" -> `/transportation-from-cancun-airport-to-playa-del-carmen`
+    - "Playa del Carmen Transfers" -> `/shuttle-from-cancun-to-playa-del-carmen`
     - "Cancun to Tulum Shuttle" -> `/cancun-to-tulum-shuttle`
     - "Cancun to Akumal" -> `/cancun-to-akumal-shuttle`
     - "Transportation from Cancun to Merida" -> `/transportation-from-cancun-to-merida`
@@ -57,7 +57,7 @@ The footer MUST display the correct Spanish content as provided by the stakehold
 - **And** the "Destinos" column with localized links:
     - "Taxi Aeropuerto Cancún" -> `/es`
     - "Cancun a Playa del Carmen" -> `/es/transportacion-cancun-a-playa-del-carmen`
-    - "Cancun a Tulum" -> `/es/traslado-cancun-tulum`
+    - "Cancun a Tulum" -> `/es/transporte-de-cancun-a-tulum`
     - "Cancun a Akumal" -> `/es/transporte-cancun-akumal`
     - "Transporte de Cancún a Mérida" -> `/es/traslado-de-cancun-a-merida`
     - "Destinos" -> `/es/destinos`

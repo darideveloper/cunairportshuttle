@@ -8,7 +8,7 @@ TBD - created by archiving change fix-header-translation-link. Update Purpose af
 #### Scenario: User switches language on a specific page
 Given I am on the "/cancun-to-tulum-shuttle" page (English)
 When I click the "Español" language switcher
-Then I should be redirected to "/es/traslado-cancun-tulum"
+Then I should be redirected to "/es/transporte-de-cancun-a-tulum"
 And I should NOT be redirected to the Spanish home page "/es"
 
 #### Scenario: User switches language on a non-home Spanish page
