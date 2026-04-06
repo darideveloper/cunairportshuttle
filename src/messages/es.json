@@ -801,7 +801,7 @@
           },
           "hotelToHotel": {
             "title": "De Hotel a Hotel",
-            "text": "¿Necesita cambiar de hotel durante su estancia en Cancún? Lo tenemos cubierto con nuestro servicio de transporte de hotel a hotel."
+            "text": "¿Necesita cambiar de un hotel a otro mientras estás en Cancún? Lo tenemos cubierto con nuestro servicio de transporte de hotel a hotel."
           },
           "hotelToRestaurant": {
             "title": "Hotel a Restaurante",
@@ -819,7 +819,7 @@
         "items": {
           "whyBook": {
             "question": "¿Por qué reservar con Cancun Airport Shuttle?",
-            "answer": "Cancun Airport Shuttle es un servicio de transporte que ofrece traslados convenientes y confiables entre el Aeropuerto Internacional de Cancún (CUN) y varios destinos en los alrededores, como hoteles, resorts y atracciones turísticas."
+            "answer": "Cancun Airport Shuttle is a transportation service that provides convenient and reliable transfers between Cancun International Airport (CUN) and various destinations in the surrounding area, such as hotels, resorts, and tourist attractions."
           },
           "howToBook": {
             "question": "¿Cómo reservar un servicio de transporte del Aeropuerto de Cancún?",
@@ -863,42 +863,52 @@
       }
     },
     "private": {
-      "title": "Transporte Privado en Cancún Aeropuerto | Transportación Aeropuerto Cancún por Go Transfers",
-      "description": "Traslado Privado del Aeropuerto de Cancún a todos los hoteles en Cancún, Playa del Carmen, Tulum y más destinos en Riviera Maya. Transporte Privado en Cancún Aeropuerto con Cancun Airport Shuttle por Go Transfers.",
+      "title": "Traslados Privados Aeropuerto Cancún | Cun Airport Shuttle",
+      "h1": "Traslados Privados Aeropuerto Cancún | Cun Airport Shuttle",
+      "description": "Reserva tu traslado privado con Cun Airport Shuttle. Servicio 24/7 a Cancún, Playa del Carmen y Tulum. Choferes profesionales y sin esperas. ¡Reserva ahora!",
       "includes": {
         "keywords": "transporte privado cancun, traslado privado aeropuerto, shuttle privado cancun, transferencia exclusiva cancun",
-        "title": "Todos nuestros Traslados Privados en Cancún incluyen:",
+        "title": "Todo lo que incluyen nuestros Traslados Privados en Cancún:",
+        "items": [
+          "Personal altamente capacitado",
+          "Rastreo de vuelos en tiempo real",
+          "Seguro de viajero incluido",
+          "Recepción personalizada en terminal",
+          "Modificaciones de horario sin costo (Ver términos)",
+          "Unidades con mantenimiento riguroso",
+          "Atención disponible las 24 horas"
+        ],
         "imageAlt": "Transportación privada en el Aeropuerto de Cancún",
         "imageTitle": "Transportación privada en el Aeropuerto de Cancún"
       },
       "faq": {
-        "title": "Transportación Privada desde el Aeropuerto de Cancún - FAQS",
+        "title": "Preguntas Frecuentes sobre el Transporte Privado",
         "items": {
           "passengers": {
-            "question": "¿Cuántos pasajeros pueden viajar utilizando el servicio de transportación privada?",
-            "answer": "Nuestros vehículos pueden transportar hasta 8 pasajeros."
+            "question": "¿Cuál es el límite de ocupantes por vehículo en servicio privado?",
+            "answer": "Nuestras camionetas están habilitadas para trasladar cómodamente hasta 8 pasajeros."
           },
           "difference": {
-            "question": "¿Cuál es la diferencia entre la transportación privada y otros servicios de traslado?",
-            "answer": "A diferencia de otros servicios de traslado, el transporte privado no requiere compartir el vehículo con extraños ni hacer paradas innecesarias en diferentes hoteles."
+            "question": "¿Qué diferencia este servicio de otras opciones de traslado?",
+            "answer": "A diferencia de los colectivos, el transporte privado le otorga exclusividad total de la unidad, sin tiempos de espera por otros pasajeros ni escalas en hoteles ajenos a su destino."
           },
           "booking": {
-            "question": "¿Cómo puedo reservar el servicio de traslado privado?",
-            "answer": "Puede reservar nuestro servicio de traslado privado a través de nuestra página web, teléfono o correo electrónico. Asegúrese de proporcionar los detalles de su vuelo y destino para una experiencia de reserva rápida y sin complicaciones."
+            "question": "¿Cómo realizo mi reservación?",
+            "answer": "Puede asegurar su lugar mediante nuestro portal web, vía telefónica o correo electrónico. Solo requerimos la información de su vuelo y destino para gestionar su llegada sin contratiempos."
           },
           "cost": {
-            "question": "¿Cuánto cuesta el servicio de transporte privado?",
-            "answer": "Ofrecemos tarifas asequibles y competitivas para los servicios de transporte privado. Los costes pueden variar en función del destino y del número de pasajeros. Para obtener un presupuesto exacto, visite nuestro sitio web o póngase en contacto con nuestro equipo de atención al cliente."
+            "question": "¿Qué costo tiene el traslado privado?",
+            "answer": "Contamos con tarifas altamente competitivas en el mercado. El precio final se determina según su destino específico y el volumen de pasajeros. Puede obtener una cotización instantánea en nuestro buscador superior."
           }
         }
       },
       "testimonials": {
-        "title": "Transporte Privado en Cancun - Lo que nuestros clientes dicen de nosotros",
-        "description": "La opinión de nuestros clientes es lo más importante para nosotros.",
+        "title": "Traslados Privados en Cancún - Reseñas de nuestros usuarios",
+        "description": "La retroalimentación de quienes confían en nosotros es nuestra mayor prioridad.",
         "items": {
           "item1": {
             "name": "Roberto D.",
-            "text": "Contraté el servicio de transporte privado para ir de Cancún a Tulum y quedé impresionada con la puntualidad y profesionalismo del conductor.",
+            "text": "Reservé el traslado privado hacia Tulum y quedé gratamente sorprendido por la puntualidad y la actitud profesional del conductor.",
             "imageAlt": "Comentarios de nuestros clientes Roberto D.",
             "imageTitle": "Comentarios de nuestros clientes Roberto D.",
             "stars": "5"
@@ -912,7 +922,7 @@
           },
           "item3": {
             "name": "Miguel B.",
-            "text": "He utilizado este servicio de transporte privado del aeropuerto de Cancún para un viaje de un día a Chichen Itza y todo fue maravilloso.",
+            "text": "Utilicé Cun Airport Shuttle para una excursión a Chichén Itzá y la logística fue perfecta de principio a fin.",
             "imageAlt": "Comentarios de nuestros clientes Miguel B.",
             "imageTitle": "Comentarios de nuestros clientes Miguel B.",
             "stars": "5"
@@ -920,45 +930,49 @@
         }
       },
       "pricing": {
-        "title": "Otros servicios similares a transporte de lujo en Cancún",
+        "title": "Otras alternativas de traslado en Cancún",
         "subtitle": "Lista de nuestros servicios de transporte",
         "cards": {
           "luxury": {
-            "title": "Transporte privado",
-            "description": "Viaje cómodamente en un servicio privado totalmente equipado para un máximo de 8 pasajeros. El servicio es privado, sin tiempos de espera ni paradas continuas."
+            "title": "Transportación de Lujo",
+            "description": "Eleve el estándar de su viaje con un servicio premium entre el Aeropuerto de Cancún y su complejo turístico. Ideal para grupos de 1 a 5 personas en vehículos tipo Suburban o similares, garantizando distinción y máximo confort.\n\n* Servicio 100% Privado\n* Incluye impuestos y seguro\n* Operativo las 24 horas"
           },
           "private": {
-            "title": "Servicio de taxi",
-            "description": "Viaje cómodamente en un servicio privado totalmente equipado para un máximo de 3 pasajeros. El servicio es privado, sin esperas ni paradas continuas."
+            "title": "Servicio de Taxi (Económico)",
+            "description": "Desplácese de forma ágil en unidades totalmente equipadas para un máximo de 3 pasajeros. Rapidez y privacidad garantizada sin esperas.\n\n* Servicio 100% Privado\n* Incluye impuestos y seguro\n* Operativo las 24 horas"
           },
           "group": {
-            "title": "Transporte de grupos",
-            "description": "¿Viaja con un grupo de más de 8 pasajeros? Ahorre dinero reservando nuestro servicio de transporte para grupos. Nuestros espaciosos y seguros vehículos pueden acomodar hasta 16 pasajeros."
+            "title": "Transporte para Grupos",
+            "description": "¿Viaja con más de 8 acompañantes? Optimice su presupuesto con nuestro servicio grupal. Disponemos de camionetas amplias con capacidad de hasta 16 personas para que todos viajen juntos y seguros.\n\n* Servicio 100% Privado\n* Incluye impuestos y seguro\n* Operativo las 24 horas"
           }
         }
       },
       "privateDetails": {
         "title": "Transportación Privada en Cancún",
-        "description": "Nuestro servicio de Transportación Privada en Cancún es la opción perfecta para trasladarse desde el aeropuerto. Con una capacidad de hasta 8 pasajeros y un precio accesible, usted puede disfrutar de un viaje cómodo y seguro desde el Aeropuerto Internacional de Cancún a su hotel, Airbnb, o casa en la Zona Hotelera de Cancún, Playa del Carmen, Tulum, y la Riviera Maya.\n\nSin duda, nuestro servicio de transporte privado desde Cancún es la opción más popular en traslados al aeropuerto de Cancún. El transporte privado está disponible durante todo el día, no hay necesidad de compartir el vehículo con extraños o hacer paradas innecesarias en el camino a su hotel. Cancun Airport Shuttle por Go Transfers ofrece un servicio seguro y asequible, con recogida en el aeropuerto, conductores profesionales y bilingües, y seguro de viaje para todos los pasajeros. Con más de 10 años de experiencia ofreciendo traslados privados en Cancún con la más alta calidad, brindamos a nuestros clientes la mejor experiencia en su viaje a través de un servicio personalizado.",
+        "description": "Nuestra modalidad de **Transporte Privado** en Cancún es la alternativa ideal para quienes buscan eficiencia al aterrizar. Con unidades diseñadas para hasta 8 usuarios a precios competitivos, garantizamos un trayecto placentero y protegido desde el Aeropuerto Internacional de Cancún hacia su hotel, propiedad de Airbnb o residencia en la Zona Hotelera, Playa del Carmen, Tulum y toda la Riviera Maya.\n\nSin duda, el servicio privado es la elección predilecta para moverse desde la terminal aérea. Al elegir a **Cun Airport Shuttle**, usted dispone de un vehículo exclusivo las 24 horas, eliminando la necesidad de compartir su espacio con desconocidos o realizar paradas intermedias que retrasen su llegada. Ofrecemos una experiencia segura y económica, respaldada por choferes bilingües certificados y cobertura de seguro para cada ocupante. Con una trayectoria consolidada en el sector, priorizamos la satisfacción del cliente a través de un trato humano y personalizado en cada kilómetro.",
         "table": {
-          "title": "Precios de Transportación Privada en el Aeropuerto de Cancún",
+          "title": "Tarifas de Transporte Privado Aeropuerto de Cancún",
           "headers": {
-            "arrival": "Llegada",
-            "departure": "Salida",
-            "oneWay": "Ida",
+            "arrival": "Origen",
+            "departure": "Destino",
+            "oneWay": "Sencillo",
             "roundTrip": "Redondo",
             "capacity": "Capacidad"
           },
           "rows": [
             {
-              "arrival": "Cancún Aeropuerto",
-              "departure": "Cancún Zona Hotelera",
-              "capacity": "Hasta 8 pasajeros"
+              "arrival": "Aeropuerto Cancún",
+              "departure": "Zona Hotelera",
+              "capacity": "Hasta 8 pax",
+              "oneWay": "$29.99 USD",
+              "roundTrip": "$59.99 USD"
             },
             {
-              "arrival": "Cancún Zona Hotelera",
-              "departure": "Cancún Aeropuerto",
-              "capacity": "Hasta 8 pasajeros"
+              "arrival": "Zona Hotelera",
+              "departure": "Aeropuerto Cancún",
+              "capacity": "Hasta 8 pax",
+              "oneWay": "$29.99 USD",
+              "roundTrip": "$59.99 USD"
             }
           ]
         },
@@ -1562,7 +1576,7 @@
           },
           "benefits": {
             "question": "¿Qué beneficios obtengo con un shuttle a Akumal desde Cancún?",
-            "answer": "Utilizar un servicio de shuttle para trasladarte de Cancún a Akumal tiene varios beneficios significativos. En primer lugar, la conveniencia de un transporte directo desde el aeropuerto hasta la puerta de tu hotel en Akumal no tiene comparación. Nuestros vehículos están equipados con aire acondicionado, lo que te garantiza un viaje cómodo en el clima cálido de la Riviera Maya. Además, nuestras tarifas son fijas, lo que significa que no habrá sorpresas ni cargos ocultos al final del trayecto. Otro beneficio importante es el servicio al cliente 24/7, que te asegura asistencia en cualquier momento, junto con el seguimiento de vuelos para ajustar el horario de recogida en caso de retrasos, lo que te permite viajar sin estrés."
+            "answer": "Utilizar un servicio de shuttle para trasladarte de Cancún a Akumal tiene varios beneficios significativos. En primer lugar, la conveniencia de un transporte directo desde el aeropuerto hasta la puerta de tu hotel en Akumal no tiene comparación. Nuestros vehículos están equipados con aire acondicionado, lo que te garantiza un viaje cómodo en el clima cálido de la Riviera Maya. Además, nuestras tarifas son fijas, lo que significa que no habrá sorpresas ni cargos ocultos al final del trayecto. Otro beneficio importante es el servicio al cliente 24/7, que te asegura asistencia en cualquier momento, junto con el seguimiento de vuelos para ajustar el horario de recogida en el caso de retrasos, lo que te permite viajar sin estrés."
           },
           "howToGet": {
             "question": "¿Cómo llego del Aeropuerto de Cancún a Akumal?",
@@ -1676,21 +1690,21 @@
             "name": "Juan P.",
             "text": "Estuve encantada con la puntualidad y comodidad del servicio de transporte proporcionado por Cancun Airport Shuttle en mi reciente viaje a Tulum. Me gustó especialmente la amabilidad del conductor y la facilidad del proceso de reserva.",
             "imageAlt": "Comentarios de nuestros clientes Juan P.",
-            "imageTitle": "Comentarios de nuestros clientes Juan P.",
+            "imageTitle": "Comentarios de Yunuen P.",
             "stars": "5"
           },
           "item2": {
             "name": "Ana G.",
             "text": "Me encantó la eficiencia y profesionalidad del servicio de Cancun Airport Shuttle durante el traslado a Tulum. El vehículo estaba impecablemente limpio y el viaje fue muy agradable, gracias al excelente servicio al cliente.",
             "imageAlt": "Comentarios de nuestros clientes Ana G.",
-            "imageTitle": "Comentarios de nuestros clientes Ana G.",
+            "imageTitle": "Comentarios de Ana G.",
             "stars": "5"
           },
           "item3": {
             "name": "Carlos R.",
             "text": "Disfruté de un viaje excepcionalmente cómodo a Tulum con Cancun Airport Shuttle. Destaco la puntualidad del servicio y la amabilidad del conductor, quien además compartió valiosos consejos sobre lugares a visitar en la zona.",
             "imageAlt": "Comentarios de nuestros clientes Carlos R.",
-            "imageTitle": "Comentarios de nuestros clientes Carlos R.",
+            "imageTitle": "Comentarios de Carlos R.",
             "stars": "5"
           }
         }
@@ -1861,21 +1875,21 @@
             "name": "Emily R.",
             "text": "Recientemente utilicé el servicio de transporte de Cancun Airport Shuttle de Cancún a Mérida, ¡y fue fantástico! El conductor fue puntual, el vehículo estaba limpio y cómodo, y todo el proceso fue muy fluido.",
             "imageAlt": "Comentarios de nuestros clientes Emily R.",
-            "imageTitle": "Comentarios de nuestros clientes Emily R.",
+            "imageTitle": "Comentarios de Emily R.",
             "stars": "5"
           },
           "item2": {
             "name": "Michael T.",
             "text": "Reservar el transporte de Cancún a Mérida con Cancun Airport Shuttle fue la mejor decisión. El servicio fue confiable, el conductor fue profesional y el viaje fue muy tranquilo. Hizo que mi viaje fuera relajado y agradable.",
             "imageAlt": "Comentarios de nuestros clientes Michael T.",
-            "imageTitle": "Comentarios de nuestros clientes Michael T.",
+            "imageTitle": "Comentarios de Michael T.",
             "stars": "5"
           },
           "item3": {
             "name": "Jessica K.",
             "text": "Tuve una experiencia increíble con Cancun Airport Shuttle para mi traslado de Cancún a Mérida. La reserva fue sencilla, el conductor fue amable y el transporte era espacioso y cómodo. ¡Perfecto para un viaje largo!",
             "imageAlt": "Comentarios de nuestros clientes Jessica K.",
-            "imageTitle": "Comentarios de nuestros clientes Jessica K.",
+            "imageTitle": "Comentarios de Jessica K.",
             "stars": "5"
           }
         }
@@ -1983,84 +1997,75 @@
         "viewMoreLink": "/es/destinos",
         "cards": {
           "tulum": {
-            "title": "Transporte del Aeropuerto de Cancun a Tulum",
-            "description": "Tulum, ciudad situada en la Riviera Maya, se encuentra aproximadamente a 2 horas en coche de Cancún. Conocida por sus impresionantes playas, sitios arqueológicos históricos e increíbles hoteles en la selva, Tulum es un destino de visita obligada.",
+            "title": "Transporte del Aeropuerto de Cancún a Tulum",
+            "description": "Tulum es una de las ciudades que forman parte de la Riviera Maya y se encuentra a casi 2 horas en coche de Cancún. Una ciudad que destaca por sus playas, sitios arqueológicos e increíbles hoteles en la selva.",
             "ctaText": "Reservar",
             "link": "/es/transporte-de-cancun-a-tulum"
           },
           "playa": {
-            "title": "Transporte del Aeropuerto de Cancun a Playa del Carmen",
-            "description": "Nuestros servicios de transporte y taxi te llevarán a cualquier hotel, casa vacacional o Airbnb en Playa del Carmen, el vibrante corazón de la Riviera Maya. ¡Con nosotros, su aventura está a la vuelta de la esquina!",
+            "title": "Transportación del Aeropuerto de Cancún a Playa del Carmen",
+            "description": "Nuestro servicio de traslado y taxi puede llevarte a cualquier hotel, casa vacacional o Airbnb en Playa del Carmen, considerada el corazón de la Riviera Maya. ¡La diversión estará a la vuelta de la esquina!",
             "ctaText": "Reservar",
             "link": "/es/transportacion-cancun-a-playa-del-carmen"
           },
           "cancun": {
             "title": "Transportación del Aeropuerto de Cancún a la Zona Hotelera de Cancún",
-            "description": "La zona hotelera de Cancún es el principal destino de la ciudad, con hoteles de 4 y 5 estrellas que ofrecen las mejores vistas del Mar Caribe y la experiencia vacacional más inolvidable que pueda imaginar.",
+            "description": "La zona hotelera de Cancún es el destino más popular de la ciudad y sus hoteles de 4 y 5 estrellas te darán la mejor vista del Mar Caribe y la mejor experiencia vacacional que puedas imaginar.",
             "ctaText": "Reservar",
             "link": "/es"
           }
         }
+      }
+    },
+    "taxi": {
+      "title": "Taxi Aeropuerto Cancun | Cun Airport Shuttle",
+      "description": "Servicio de taxi confiable desde el Aeropuerto de Cancún. Reserve su Taxi del Aeropuerto de Cancún para traslados rápidos y económicos a su hotel.",
+      "keywords": "taxi aeropuerto cancun, taxi cancun, servicio de taxi, traslado taxi cancun",
+      "includes": {
+        "title": "Todos nuestros Taxis en Cancún incluyen:",
+        "imageAlt": "Servicio privado en Suburban",
+        "imageTitle": "Servicio privado en Suburban"
       },
-      "checklist": {
-        "affordable": "Viaje accesible",
-        "lowRates": "Tarifas bajas"
-      },
-      "highlights": {
-        "reserve": {
-          "title": "Reserva hoy",
-          "text": "Vive la magia de la **Riviera Maya** sin preocupaciones.",
-          "imageAlt": "Icono de Reserva hoy",
-          "imageTitle": "Reserva hoy"
-        },
-        "contact": {
-          "title": "Contáctanos si tienes problemas",
-          "text": "Si no encuentras tu destino en la lista, puedes contactarnos y con gusto un asesor te ayudará.",
-          "imageAlt": "Icono de Contáctanos",
-          "imageTitle": "Contáctanos"
-        },
-        "sectionTitle": "Guía de Inicio Rápido"
-      },
-      "serviceCards": {
-        "confidence": {
-          "title": "Viaja con Confianza",
-          "text": "Viaja con confianza, seguridad y la comodidad que solo nosotros te ofrecemos",
-          "imageAlt": "Icono de pirámide representando confianza y seguridad",
-          "imageTitle": "Confianza y Seguridad"
-        },
-        "transportation": {
-          "title": "Servicio de Transportación",
-          "text": "Transportación hasta su hotel o destino",
-          "imageAlt": "Icono de excursión representando servicio de transportación",
-          "imageTitle": "Servicio de Transportación"
-        },
-        "comfort": {
-          "title": "Comodidad Completa",
-          "text": "Comodidad desde el principio hasta el final de tu viaje",
-          "imageAlt": "Icono de asiento de auto representando comodidad",
-          "imageTitle": "Comodidad Durante Todo Tu Viaje"
+      "faq": {
+        "title": "Preguntas Frecuentes sobre el Servicio de Taxi",
+        "items": {
+          "passengers": {
+            "question": "¿Cuántos pasajeros pueden viajar utilizando el servicio de taxi?",
+            "answer": "Nuestros vehículos de taxi pueden transportar hasta 3 pasajeros."
+          },
+          "difference": {
+            "question": "¿Cuál es la diferencia entre el servicio de taxi y el transporte privado?",
+            "answer": "El servicio de taxi es para grupos pequeños de hasta 3 personas, mientras que el transporte privado utiliza camionetas para hasta 8 personas."
+          }
         }
       },
       "testimonials": {
-        "title": "Lo que opinan nuestros clientes",
-        "description": "La opinión de nuestros clientes es lo más importante para nosotros",
+        "title": "Opiniones sobre nuestro Servicio de Taxi",
+        "description": "Vea lo que nuestros clientes dicen sobre su experiencia.",
         "items": {
           "item1": {
-            "name": "Juan P.",
-            "text": "Contraté el servicio de transporte para ir de Cancún a Tulum y quedé impresionada con la puntualidad y profesionalismo del conductor. El vehículo estaba en excelentes condiciones y el viaje fue muy cómodo. Recomendaré este servicio a mis amigos y familiares.",
-            "imageAlt": "Comment from our customer Juan P.",
-            "imageTitle": "Comment from our customer Juan P.",
+            "name": "Ricardo L.",
+            "text": "Excelente servicio de taxi, el conductor fue puntual y muy amable.",
+            "imageAlt": "Comentario de Ricardo L.",
+            "imageTitle": "Comentario de Ricardo L.",
             "stars": "5"
           }
         }
-      }
-    },
-    "privateAirportTransfer": {
+      },
+      "pricing": {
+        "title": "Otras opciones de transporte",
+        "cards": {
+          "private": {
+            "title": "Transporte Privado",
+            "description": "Servicio en camioneta para hasta 8 pasajeros."
+          }
+        }
+      },
       "privateDetails": {
-        "title": "Transportación Privada en Cancún",
-        "description": "Nuestro servicio de Transportación Privada en Cancún es la opción perfecta para trasladarse desde el aeropuerto. Con una capacidad de hasta 8 pasajeros y un precio accesible, usted puede disfrutar de un viaje cómodo y seguro desde el Aeropuerto Internacional de Cancún a su hotel, Airbnb, o casa en la Zona Hotelera de Cancún, Playa del Carmen, Tulum, y la Riviera Maya.\n\nSin duda, nuestro servicio de transporte privado desde Cancún es la opción más popular en traslados al aeropuerto de Cancún. El transporte privado está disponible durante todo el día, no hay necesidad de compartir el vehículo con extraños o hacer paradas innecesarias en el camino a su hotel. Cancun Airport Shuttle por Go Transfers ofrece un servicio seguro y asequible, con recogida en el aeropuerto, conductores profesionales y bilingües, y seguro de viaje para todos los pasajeros. Con más de 10 años de experiencia ofreciendo traslados privados en Cancún con la más alta calidad, brindamos a nuestros clientes la mejor experiencia en su viaje a través de un servicio personalizado.",
+        "title": "Servicio de Taxi Aeropuerto Cancún",
+        "description": "Nuestro servicio de taxi es la forma más rápida de llegar a su destino.",
         "table": {
-          "title": "Precios de Transportación Privada en el Aeropuerto de Cancún",
+          "title": "Precios de Taxi Aeropuerto Cancún",
           "headers": {
             "arrival": "Llegada",
             "departure": "Salida",
@@ -2070,14 +2075,9 @@
           },
           "rows": [
             {
-              "arrival": "Cancún Aeropuerto",
-              "departure": "Cancún Zona Hotelera",
-              "capacity": "Hasta 8 pasajeros"
-            },
-            {
-              "arrival": "Cancún Zona Hotelera",
-              "departure": "Cancún Aeropuerto",
-              "capacity": "Hasta 8 pasajeros"
+              "arrival": "Aeropuerto Cancún",
+              "departure": "Zona Hotelera",
+              "capacity": "1-3 pasajeros"
             }
           ]
         },
@@ -2087,52 +2087,133 @@
         }
       }
     },
-    "blog": {
-      "title": "Blog de Cancun Airport Shuttle | Consejos de Viaje y Noticias",
-      "description": "Lee las últimas noticias, consejos de viaje y guías sobre Cancún, Playa del Carmen, Tulum y la Riviera Maya de nuestros expertos.",
-      "keywords": "blog cancun, consejos de viaje riviera maya, guia tulum, noticias playa del carmen",
-      "heading": "Nuestro Blog",
-      "readMore": "Leer más",
-      "authorPrefix": "Por",
-      "datePrefix": "Publicado el",
-      "pagination": {
-        "previous": "Anterior",
-        "next": "Siguiente"
-      }
-    },
-    "results": {
-      "title": "Resultados",
-      "description": "Selecciona el vehículo que se adapte a tu estilo y prepárate para una experiencia inolvidable llena de comodidad, seguridad y diversión. ¡Tu aventura empieza con la elección de tu vehículo ideal! 🚗✨",
-      "keywords": "resultados transporte cancun, busqueda resultados",
-      "dynamicTitle": "Traslado de {from} a {to}",
-      "sidebar": {
-        "route": {
-          "title": "Trayectoria de tu **viaje**",
-          "modifyBtn": "Modificar Trayectoria",
-          "mapAriaLabel": "Mapa de trayectoria de viaje"
+    "luxury": {
+      "title": "Transportación de Lujo en Cancún | Cun Airport Shuttle",
+      "description": "Transportación de lujo en Cancún a todos los hoteles en Cancún, Playa del Carmen, Tulum, y más destinos en la Riviera Maya.",
+      "keywords": "transporte de lujo cancun, traslado vip cancun, shuttle premium aeropuerto",
+      "includes": {
+        "title": "Nuestro servicio de transporte de lujo incluye:",
+        "imageAlt": "Transportación de lujo en Cancún Aeropuerto",
+        "imageTitle": "Transportación de lujo en Cancún Aeropuerto"
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes - Transporte de Lujo",
+        "items": {
+          "booking": {
+            "question": "¿Cómo reservar transporte de lujo?",
+            "answer": "Puede reservar en línea o por teléfono."
+          }
         }
       },
-      "loading": "Buscando las mejores opciones para ti...",
-      "error": "Algo salió mal al cargar los vehículos.",
-      "noVehicles": "No se encontraron vehículos.",
-      "retry": "Intentar de nuevo",
-      "sorry": "Lo sentimos :(",
-      "noAvailabilityMessage": "Desafortunadamente no encontramos disponibilidad para la **Zona / Horarios** solicitados, descuida podemos resolverlo.",
-      "usaCanada": "USA & Canada",
-      "mexicoRest": "México & Resto del mundo",
-      "whatsapp": "WhatsApp",
-      "chat": "Chat"
+      "testimonials": {
+        "title": "Reseñas de Transporte de Lujo",
+        "description": "Nuestros clientes VIP comparten su experiencia.",
+        "items": {
+          "item1": {
+            "name": "Alexander M.",
+            "text": "Increíble servicio en Suburban, muy profesional.",
+            "stars": "5"
+          }
+        }
+      },
+      "pricing": {
+        "title": "Otros servicios VIP",
+        "cards": {
+          "private": {
+            "title": "Transporte Privado",
+            "description": "Servicio estándar para grupos."
+          }
+        }
+      },
+      "privateDetails": {
+        "title": "Transportación de Lujo en Cancún",
+        "description": "Viaje con estilo y confort en nuestras unidades Suburban.",
+        "table": {
+          "title": "Precios de Transporte de Lujo",
+          "headers": {
+            "arrival": "Llegada",
+            "departure": "Salida",
+            "oneWay": "Ida",
+            "roundTrip": "Redondo",
+            "capacity": "Capacidad"
+          },
+          "rows": [
+            {
+              "arrival": "Aeropuerto Cancún",
+              "departure": "Zona Hotelera",
+              "capacity": "1-5 pasajeros"
+            }
+          ]
+        },
+        "cta": {
+          "text": "Reserva Ahora",
+          "href": "#booking-form"
+        }
+      }
+    },
+    "group": {
+      "title": "Transportación de Grupos en Cancún | Cun Airport Shuttle",
+      "description": "Transportación para grupos grandes en Cancún y la Riviera Maya.",
+      "keywords": "transporte grupos cancun, traslado para grupos, renta de autobus cancun",
+      "includes": {
+        "title": "Nuestros traslados de grupo incluyen:",
+        "imageAlt": "Servicio privado para grupos",
+        "imageTitle": "Servicio privado para grupos"
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes - Grupos",
+        "items": {
+          "capacity": {
+            "question": "¿Cuántas personas pueden viajar?",
+            "answer": "Hasta 16 pasajeros por unidad."
+          }
+        }
+      },
+      "testimonials": {
+        "title": "Reseñas de Grupos",
+        "description": "Lo que dicen los grupos que han viajado con nosotros.",
+        "items": {
+          "item1": {
+            "name": "Sarah M.",
+            "text": "Perfecto para nuestra boda, todos viajamos juntos.",
+            "stars": "5"
+          }
+        }
+      },
+      "pricing": {
+        "title": "Otras opciones grupales",
+        "cards": {
+          "private": {
+            "title": "Transporte Privado",
+            "description": "Servicio en van para hasta 8 personas."
+          }
+        }
+      },
+      "privateDetails": {
+        "title": "Transportación para Grupos en Cancún",
+        "description": "La mejor opción para eventos y grupos grandes.",
+        "table": {
+          "title": "Precios de Transporte para Grupos",
+          "headers": {
+            "arrival": "Llegada",
+            "departure": "Salida",
+            "oneWay": "Ida",
+            "roundTrip": "Redondo",
+            "capacity": "Capacidad"
+          },
+          "rows": [
+            {
+              "arrival": "Aeropuerto Cancún",
+              "departure": "Zona Hotelera",
+              "capacity": "Hasta 16 pasajeros"
+            }
+          ]
+        },
+        "cta": {
+          "text": "Reserva Ahora",
+          "href": "#booking-form"
+        }
+      }
     }
-  },
-  "transaction": {
-    "success": {
-      "contact": "Le hemos enviado un correo de confirmación, para más información contáctenos."
-    },
-    "error": {
-      "contact": "Su transacción no fue aprobada, podemos ayudarle, ¡contáctenos!"
-    },
-    "call_us": "Llámanos al",
-    "go_home": "Ir al inicio",
-    "view_reservation": "Ver mi reservación"
   }
 }
