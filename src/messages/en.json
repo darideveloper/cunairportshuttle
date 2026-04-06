@@ -1075,11 +1075,15 @@
             {
               "arrival": "Cancun Airport",
               "departure": "Cancun Hotel Zone",
+              "oneWay": "$33",
+              "roundTrip": "$62",
               "capacity": "Up to 3 passengers"
             },
             {
               "arrival": "Cancun Hotel Zone",
               "departure": "Cancun Airport",
+              "oneWay": "$33",
+              "roundTrip": "$62",
               "capacity": "Up to 3 passengers"
             }
           ]
@@ -1225,6 +1229,10 @@
           "advanceBooking": {
             "question": "How far in advance should I book my group transportation?",
             "answer": "It is advisable to book your group transportation as soon as you have your travel details confirmed. This ensures availability and allows the service provider to make any necessary arrangements to meet your specific needs."
+          },
+          "capacity": {
+            "question": "What is the capacity of the vehicles?",
+            "answer": "Up to 16 passengers."
           }
         }
       },
@@ -1400,6 +1408,7 @@
       },
       "faq": {
         "title": "Cancun to Playa del Carmen - Faqs",
+        "description": "We help you to clear your doubts about our transportation services",
         "items": {
           "cost": {
             "question": "How much is Transportation from Cancun to Playa del Carmen?",
