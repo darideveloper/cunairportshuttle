@@ -20,6 +20,7 @@ if (!currentPage || currentPage === 'en' || currentPage === 'es') {
 import Header from '../components/organisms/Header.astro'
 import Footer from '../components/organisms/Footer.astro'
 import TawkTo from '../components/integrations/TawkTo.astro'
+import GoogleTagManager from '../components/integrations/GoogleTagManager.astro'
 
 interface Props {
   preloadImage?: string
@@ -41,6 +42,7 @@ const currentLang = propLang || paramsLang || 'en'
       name='viewport'
       content='width=device-width'
     />
+    <GoogleTagManager part="head" />
     <link
       rel='icon'
       type='image/x-icon'
@@ -110,6 +112,7 @@ const currentLang = propLang || paramsLang || 'en'
     }
   </head>
   <body>
+    <GoogleTagManager part="body" />
     <Header
       pageKey={pageKey}
       translatedPath={translatedPath}
