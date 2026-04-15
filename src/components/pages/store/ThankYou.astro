@@ -83,30 +83,29 @@ const code = Astro.url.searchParams.get('code')
       return
     }
 
-    // Deduplication
-    const sessionTrackingKey = `ga_conversion_fired_${urlCode}`
+    // GTM Conversion Tracking
+    const sessionTrackingKey = `gtm_conversion_fired_${urlCode}`
     if (sessionStorage.getItem(sessionTrackingKey)) {
-      console.log('GA Debug: Already fired for this session')
+      console.log('GTM Debug: Already fired for this session')
       return
     }
 
-    if (typeof window.gtag === 'function') {
-      console.log('GA Debug: Firing event', {
-        value: conversionValue,
-        currency: conversionCurrency,
-        transaction_id: transactionId,
-      })
+    window.dataLayer = window.dataLayer || []
+    console.log('GTM Debug: Pushing conversion event to dataLayer', {
+      value: conversionValue,
+      currency: conversionCurrency,
+      transaction_id: transactionId,
+    })
 
-      window.gtag('event', 'conversion', {
-        send_to: 'AW-18013613191/6zn0CPCz6occEIfZx41D',
-        value: conversionValue,
-        currency: conversionCurrency,
-        transaction_id: transactionId,
-      })
+    window.dataLayer.push({
+      event: 'conversion',
+      conversion_id: 'AW-18013613191',
+      conversion_label: '6zn0CPCz6occEIfZx41D',
+      value: conversionValue,
+      currency: conversionCurrency,
+      transaction_id: transactionId,
+    })
 
-      sessionStorage.setItem(sessionTrackingKey, 'true')
-    } else {
-      console.error('GA Debug: window.gtag is not a function')
-    }
+    sessionStorage.setItem(sessionTrackingKey, 'true')
   })
 </script>

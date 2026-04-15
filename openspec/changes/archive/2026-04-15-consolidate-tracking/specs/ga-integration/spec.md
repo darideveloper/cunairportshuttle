@@ -1,8 +1,9 @@
-# ga-integration Specification
+## REMOVED Requirements
+### Requirement: GA Global Initialization
+**Reason**: Consolidating all tracking logic into Google Tag Manager (GTM).
+**Migration**: Manual `gtag.js` for `AW-18013613191` is removed from code; equivalent tracking should be configured in GTM container.
 
-## Purpose
-TBD - created by archiving change add-ga-conversion-tracking. Update Purpose after archive.
-## Requirements
+## MODIFIED Requirements
 ### Requirement: Conversion Event Tracking
 The application MUST fire a conversion event when a user reaches the "Thank You" or "Gracias" page after a successful booking using the GTM `dataLayer`.
 
@@ -20,4 +21,3 @@ The application MUST fire a conversion event when a user reaches the "Thank You"
 #### Scenario: Navigation Compatibility
 - **Given** the user navigates to the Thank You page via a client-side transition.
 - **Then** the conversion event MUST still fire correctly and push to the `dataLayer`.
-

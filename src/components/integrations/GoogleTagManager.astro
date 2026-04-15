@@ -6,12 +6,17 @@ interface Props {
 }
 
 const { part } = Astro.props;
+
+// Safeguard: Do not render if GTM_ID is missing
+if (!GTM_ID) {
+  return;
+}
 ---
 
 {
   part === 'head' && (
     <Fragment>
-      {/* Google Tag Manager */}
+      {/* Google Tag Manager Initialization */}
       <script is:inline define:vars={{ GTM_ID }}>
         (function (w, d, s, l, i) {
           w[l] = w[l] || [];
@@ -24,7 +29,18 @@ const { part } = Astro.props;
           f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', GTM_ID);
       </script>
-      {/* End Google Tag Manager */}
+
+      {/* Astro Page Load Listener for GTM Page Views */}
+      <script>
+        document.addEventListener('astro:page-load', () => {
+          window.dataLayer = window.dataLayer || [];
+          window.dataLayer.push({
+            event: 'page_view',
+            page_path: window.location.pathname,
+            page_title: document.title,
+          });
+        });
+      </script>
     </Fragment>
   )
 }
@@ -41,7 +57,6 @@ const { part } = Astro.props;
           style='display:none;visibility:hidden'
         />
       </noscript>
-      {/* End Google Tag Manager (noscript) */}
     </Fragment>
   )
 }

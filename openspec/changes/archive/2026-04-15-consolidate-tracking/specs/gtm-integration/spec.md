@@ -1,8 +1,4 @@
-# gtm-integration Specification
-
-## Purpose
-TBD - created by archiving change add-gtm-integration. Update Purpose after archive.
-## Requirements
+## MODIFIED Requirements
 ### Requirement: GTM Initialization
 The application MUST initialize Google Tag Manager (GTM) in the global layout to ensure it's active on all pages. The component MUST skip rendering if `PUBLIC_GTM_ID` is missing.
 
@@ -21,14 +17,6 @@ The application MUST initialize Google Tag Manager (GTM) in the global layout to
 - **Given** the environment variable `PUBLIC_GTM_ID` is NOT set.
 - **Then** the GTM scripts MUST NOT render.
 
-### Requirement: Environment Configuration
-The GTM ID MUST be configurable via environment variables.
-
-#### Scenario: Configuration Retrieval
-- **Given** the environment variable `PUBLIC_GTM_ID` is set to `GTM-WKXM5PMV`.
-- **When** the application is built or run.
-- **Then** the GTM snippets MUST use `GTM-WKXM5PMV`.
-
 ### Requirement: Compatibility with Client Navigation
 The GTM implementation MUST NOT break when using Astro's `ClientRouter` for client-side navigation.
 
@@ -36,4 +24,3 @@ The GTM implementation MUST NOT break when using Astro's `ClientRouter` for clie
 - **Given** a user navigates between pages using client-side transitions.
 - **Then** the GTM script MUST persist and continue tracking page views correctly.
 - **And** a `page_view` event MUST be pushed to the `dataLayer` on every `astro:page-load` with the current `page_path` and `page_title`.
-
