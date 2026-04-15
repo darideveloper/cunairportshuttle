@@ -727,18 +727,24 @@
           "tulum": {
             "title": "Shuttle from Cancun Airport to Tulum",
             "description": "Tulum is one of the cities that are part of the Riviera Maya and is almost 2 hours drive from Cancun. A city that stands out for its beaches, archaeological sites, and incredible jungle hotels.",
+            "imageAlt": "Shuttle from Cancun Airport to Tulum",
+            "imageTitle": "Shuttle from Cancun Airport to Tulum",
             "ctaText": "Book now",
             "link": "/cancun-to-tulum-shuttle"
           },
           "playa": {
             "title": "Shuttle from Cancun Airport to Playa del Carmen",
             "description": "Our shuttle service and cab service can take you to any hotel, vacation home, or Airbnb in Playa del Carmen, which is considered the heart of the Riviera Maya. The fun will be just around the corner!",
+            "imageAlt": "Shuttle from Cancun Airport to Playa del Carmen",
+            "imageTitle": "Shuttle from Cancun Airport to Playa del Carmen",
             "ctaText": "Book now",
             "link": "/shuttle-from-cancun-to-playa-del-carmen"
           },
           "cancun": {
             "title": "Shuttle from Cancun Airport to Cancun Hotel Zone",
             "description": "Cancun's hotel zone is the most popular destination in the city and its 4 and 5-star hotels will give you the best view of the Caribbean Sea and the best vacation experience you can imagine.",
+            "imageAlt": "Shuttle from Cancun Airport to Cancun Hotel Zone",
+            "imageTitle": "Shuttle from Cancun Airport to Cancun Hotel Zone",
             "ctaText": "Book now",
             "link": "/"
           }

@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
+    "dev": "npm run validate-i18n && astro dev",
     "build": "npm run validate-i18n && astro build",
     "preview": "astro preview",
     "validate-i18n": "tsx scripts/validate-i18n.ts",
