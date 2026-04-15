@@ -1,8 +1,7 @@
-# ga-integration Specification
+# ga-integration Spec Delta
 
-## Purpose
-TBD - created by archiving change add-ga-conversion-tracking. Update Purpose after archive.
-## Requirements
+## MODIFIED Requirements
+
 ### Requirement: Conversion Event Tracking
 The application MUST fire a conversion event when a user reaches the "Thank You" or "Gracias" page after a successful booking using the GTM `dataLayer`.
 
@@ -11,4 +10,3 @@ The application MUST fire a conversion event when a user reaches the "Thank You"
 - **When** a user arrives at the `/thank-you` page with a valid booking.
 - **Then** the `conversion` event MUST NOT be pushed to the `window.dataLayer`.
 - **And** no tracking error should appear in the console.
-

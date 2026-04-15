@@ -51,6 +51,7 @@ Cancun Airport Transportation is a specialized booking platform for private shut
 ### Testing Strategy
 - Focus on end-to-end testing for the booking funnel (Reservation process).
 - Unit tests for pricing logic and distance calculations.
+- **Translation Integrity**: Mandatory validation of i18n keys via `npm run validate-i18n`. This check is part of the build process and should be run during development to ensure all keys are present.
 
 ### Git Workflow
 - Standard feature branching.

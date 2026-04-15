@@ -727,18 +727,24 @@
           "tulum": {
             "title": "Transporte del Aeropuerto de Cancún a Tulum",
             "description": "Tulum es una de las ciudades que forman parte de la Riviera Maya y se encuentra a casi 2 horas en coche de Cancún. Una ciudad que destaca por sus playas, sitios arqueológicos e increíbles hoteles en la selva.",
+            "imageAlt": "Transporte del Aeropuerto de Cancún a Tulum",
+            "imageTitle": "Transporte del Aeropuerto de Cancún a Tulum",
             "ctaText": "Reservar",
             "link": "/es/transporte-de-cancun-a-tulum"
           },
           "playa": {
             "title": "Transportación del Aeropuerto de Cancún a Playa del Carmen",
             "description": "Nuestro servicio de traslado y taxi puede llevarte a cualquier hotel, casa vacacional o Airbnb en Playa del Carmen, considerada el corazón de la Riviera Maya. ¡La diversión estará a la vuelta de la esquina!",
+            "imageAlt": "Transportación del Aeropuerto de Cancún a Playa del Carmen",
+            "imageTitle": "Transportación del Aeropuerto de Cancún a Playa del Carmen",
             "ctaText": "Reservar",
             "link": "/es/transportacion-cancun-a-playa-del-carmen"
           },
           "cancun": {
             "title": "Transportación del Aeropuerto de Cancún a la Zona Hotelera de Cancún",
             "description": "La zona hotelera de Cancún es el destino más popular de la ciudad y sus hoteles de 4 y 5 estrellas te darán la mejor vista del Mar Caribe y la mejor experiencia vacacional que puedas imaginar.",
+            "imageAlt": "Transportación del Aeropuerto de Cancún a la Zona Hotelera de Cancún",
+            "imageTitle": "Transportación del Aeropuerto de Cancún a la Zona Hotelera de Cancún",
             "ctaText": "Reservar",
             "link": "/es/transporte-privado-cancun"
           }
